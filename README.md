@@ -47,9 +47,14 @@ all the way down to the least restrictive "Manner of Articulation".
   TPA divides phones into two main categories called "simple phones" and "complex phones".
 The simple phones are differentiated from one another based on the criteria of "places of articulation" (about 22 as of v2.1),
 the "manners of articulation" (about 12 as of v2.1), voicing of the vocal cords (if applicable, 2 distinctions), as well as
-the "manner of production". The "complex phones" are simple phones that have an added "secondary articulation" applied on to them. This secondary articulation can be a co-articulation with another phone or it can be a specific articulatory action within the vocal tract for example, a simple phone may be pronounced at the same time as the tongue being raised up towards the plate. This secondary articulation is called "palatalization" and this phone would be considered a "complex phone".
+the "manner of production". The "complex phones" are simple phones that have an added "secondary articulation" applied on to them.
+This secondary articulation can be a co-articulation with another phone or it can be a specific articulatory action within the vocal tract.
+For example, a simple phone may be pronounced at the same time as the tongue being raised up towards the plate.
+This secondary articulation is called "palatalization" and this phone would be considered a "complex phone".
 
-The manner of production is a concept that is not necessarily distinguished in the IPA.
+The "manner of production" is a concept that is not necessarily distinguished in the IPA althought the IPA does acknowledge
+the existence of all 6 of the "Manners of Productions" in some way.
+
 But, what it is, is it deals with the articulatory mechanisms that are employed in the production of sounds.
 There are 6 different distinct categories of "MoPs" in the TPA. They are:
 
