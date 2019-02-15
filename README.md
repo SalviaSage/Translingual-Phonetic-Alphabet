@@ -1,11 +1,10 @@
 # Translingual Phonetic Alphabet
-The Translingual Phonetic Alphabet (**TPA**) is a phonetic alphabet that is based on the International Phonetic Alphabet (**IPA**)
+The Translingual Phonetic Alphabet (**TPA**) is a phonetic alphabet that is based on the International Phonetic Alphabet (**IPA**).
 
 I created the **TPA** because I did not find the **IPA** to be accurate, legible, computer compatible nor extensive enough.
 
 I wanted to create an alphabet that was more logical, that made more sense, that was more legible, that was more compatible
 with computational linguistics and that was completely based on **Unicode** for use in computers.
-
 (The **IPA** is also completely based on **Unicode**.)
 
 In this repository, you can find some LibreOffice (**.ods**) document files that contains the letters of the
@@ -14,8 +13,7 @@ Translingual Phonetic Alphabet as well as its combining diacritics and other gra
 More formats for displaying the TPA are in production.
 
 These spreadsheet files can also be opened in Microsoft Excel.
-
-However some of the code that the spreadsheets use will not work there.
+(However some of the code that the spreadsheets use will not work there.)
 
 If you are looking for a good, capable font that can display all of the letters of the **TPA**.
 I highly suggest that you download the font called **Code2000** and use it on any **TPA** phonetic transcription.
