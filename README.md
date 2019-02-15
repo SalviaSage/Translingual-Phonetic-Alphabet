@@ -23,9 +23,9 @@ I am not the author of this font, but I am hosting it here as I can not find thi
 **Link to the Repository of the font:**
 https://github.com/SalviaSage/Code2000-Font
 
-If you are looking for a guide on how to use the TPA for doing phonetic notations and want more instructions and details. 
-**You can read my gist publication here:**
+If you are looking for a guide on how to use the TPA for doing phonetic notations and want more instructions and details.
 
+**You can read my gist publication here:**
 https://gist.github.com/SalviaSage/a08f5d6d8761f38df8e61470a679d4eb
 
 If you want to see the TPA being used in phonetic transcriptions.
