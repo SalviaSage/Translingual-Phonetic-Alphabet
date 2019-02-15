@@ -64,8 +64,8 @@ This secondary articulation can be a co-articulation with another phone or it ca
 For example, a simple phone may be pronounced at the same time as the tongue being raised up towards the plate.
 This secondary articulation is called "palatalization" and this phone would be considered a "complex phone".
 ====================================================================================================
-  The "manner of production" is a concept that is not necessarily distinguished in the IPA althought the IPA does acknowledge
-the existence of all 6 of the "Manners of Productions" in some way.
+  The "Manner of Production" is a concept that is not necessarily distinguished in the IPA althought the IPA does acknowledge
+the existence of all 7 of the "Manners of Productions" in some way.
 
 But, what it is, is it deals with the articulatory mechanisms that are employed in the production of sounds.
 There are 7 different distinct categories of "MoPs" in the TPA. 3 of them are bidirectional. They are:
