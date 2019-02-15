@@ -27,6 +27,10 @@ If you are looking for a guide on how to use the TPA for doing phonetic notation
 **You can read my gist publication here:**
 https://gist.github.com/SalviaSage/a08f5d6d8761f38df8e61470a679d4eb
 
+If you want to see the TPA being used in phonetic transcriptions.
+**You can read my gist publication here:**
+https://gist.github.com/SalviaSage/12e4a437325a96351f8fbe85db7631cb
+
 If you want to see in which way the TPA differs from the IPA read below.
 
 ~~~
