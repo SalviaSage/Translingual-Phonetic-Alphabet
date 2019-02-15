@@ -68,17 +68,32 @@ This secondary articulation is called "palatalization" and this phone would be c
 the existence of all 6 of the "Manners of Productions" in some way.
 
 But, what it is, is it deals with the articulatory mechanisms that are employed in the production of sounds.
-There are 6 different distinct categories of "MoPs" in the TPA. They are:
+There are 7 different distinct categories of "MoPs" in the TPA. 3 of them are bidirectional. They are:
 
 Pulmonic Egressives (Pulmonics) (voiceless and voiced)
 Pulmonic Ingressives (Pulmonic Ingressives) (voiceless and voiced)
+
 Glottalic Egressives (Ejectives) (voiceless only)
 Glottalic Ingressives (Implosives) (voiceless and voiced)
+
 Lingual Egressives (Velarics) (voicing does not apply)
 Lingual Ingressives (Clicks) (voicing does not apply)
+
+Percussives (Closures) (voicing does not apply)
+
+In the egressives, the direction of movement is outwards such in the way that the first place of articulation is the glottis.
+In the ingressives the direction is inwards such that the first place of articulation may be the nose or the lips
+(depending on which cavity the air is being sucked in through)
+
+Furthermore, two pathways are identified and they are "nasal" and "oral".
+
+In the Percussives there is no outward or inward direction.
+The articulators are simply made to move towards one another and strike one another.
+
 ====================================================================================================
   There are different combinations of PoAs, MoAs, and other factors such as "occlusivity" which determines whether
 a phone is possible to be articulated or not.
+
 ====================================================================================================
   Proof is necessary for the inclusion of a phone into the TPA and currently there are over 350 different simple phones in the TPA. Each one gets its own letter if possible. 
 
