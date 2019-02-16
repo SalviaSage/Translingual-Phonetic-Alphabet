@@ -101,24 +101,24 @@ Lingual Ingressives (Clicks) (voicing does not apply)
 
 Percussives (Closures) (voicing does not apply)
 
-In the egressives, the direction of movement is outwards towards the oral cavity or the nasal cavity and exiting outwards.
-In the ingressives the direction is inwards such that the first place of articulation may be the nose or the lips
+In the egressives, the direction of movement is outwards towards the oral cavity or the nasal cavity and exits outwards.
+In the ingressives, the direction is inwards such as starting at and passing through the nose or the lips going downwards.
 (depending on which cavity the air is being sucked in through)
 
 Furthermore, two "pathways" are identified and they are "nasal" and "oral".
 The air may take either of the two exits and the speaker can direct the sounds as such.
 
-In the Percussives there is no outward or inward direction.
-The articulators are simply made to move towards one another and strike one another.
+In the Percussives, there is no outwards or inwards direction.
+The articulators are simply made to move towards one another and strike or close one another.
 This mechanism of course is not possible everywhere in the vocal tract.
 It is for example possible using both of the lips, both the upper teeth and the lower teeth
-or the left and the right vocal cords coming together to seal the glottal opening.
+or the left and the right vocal cords coming together to seal the glottal opening. (glottal stop)
 
 ====================================================================================================
   There are different combinations of PoAs, MoAs, and other factors such as "occlusivity" which determines whether
 a phone is possible to be articulated or not.
 
-There are three levels of occlusiveness identified by the TPA. These are:
+There are three levels of "occlusivity" as identified by the TPA. These are:
 "occlusives" Occlusives are sounds where a complete obstruction is made in the vocal tract. (consonants)
 "strictives" Strictives are sounds where a partial obstruction is made in the vocal tract. (consonants)
 "non-strictives" are sounds where an obstruction is not made in the vocal tract and the sound simply exits out. (vowels)
@@ -139,39 +139,37 @@ In the IPA, these terms are used interchangeably. Whereas in the TPA,
 we only use the term "plosive" here because we reserve the term "stops" for what the IPA calls "unreleased plosives"
 The articulatory explanation for these "unreleased plosives" is that there is a glottal closure which accompanies the plosive.
 This makes it so that the plosives can not "explode" and thus are accurately called "stops" in the TPA.
+
+For example, the TPA makes a full distiction between the phones "glottal plosive" and "glottal stop".
+They both exist in the TPA and are not the same thing. While only the "glottal stop" is accounted for in the IPA.
 ====================================================================================================
 	The letters in the TPA do not use any detached markings such as the tittle that is found in the letter /i/
-I decided to do this so they will not interfere with the combining diacritical marks that the TPA alphabet uses.
-====================================================================================================
-	The TPA makes a full distiction between the phones "glottal plosive" and "glottal stop". They are not the same thing
-in the TPA.
+I decided to do this so they will not interfere with the combining diacritical marks that the TPA uses.
 ====================================================================================================
 	The TPA is made up entirely of small case letters or letters that do not have case.
+(it is a caseless alphabet)
 ====================================================================================================
-	The Affricates also differ from the IPA to some extent in order to be more accurate.
+	The "affricates" also differ from the IPA to some extent in order to be more accurate.
 Firstly, the TPA has specific letters for affricates while the IPA uses 2 letters that are either ligated or are joined
 using an orthographic tie bar above or below the letters.
 
 The TPA's definition of affricates:
 Affricates (Stop-Strictives) are stops that are immediately followed by strictives.
-- They cannot have seperate places of articulations.
-For example, in the greek language, the contoid cluster [ps] (a bilabial plosive followed by an alveolar fricative) exists.
+- These two articulations can not have seperate places of articulations.
+For example, in the Greek language, the contoid cluster [ps] (a bilabial plosive followed by an alveolar fricative) exists.
 There is even a specific letter for it (Ψ).
 This is not an affricate as they do not share a place of articulation. This is a contoid cluster.
 
-They cannot have seperate phonations. For example a voiced stop followed by a voiceless fricative is not an affricate.
-If this does occur in a language, it should be considered a contoid cluster and not an affricate.
-IPA describes affricates as plosives that are followed by strictives. But actually, they are closures because it is the fricative that is being released and not the plosive. 
-I introduced the category of contoids called closures. This is very helpful in explaining some of the mechanical phenomenon
-such as affricates and unreleased plosives.
+- They cannot have seperate phonations.
+For example, a voiced stop followed by a voiceless fricative is not an affricate. That too, would be a contoid cluster
 
 Although the affricates in the TPA get specific letters, because there may be so many different kinds of affricates, a
-combining diacritical tie bar is provided.
+combining diacritical tie bar is also provided.
+
 Note that this tie bar, the affricate tie bar is different than that of the co-articulation tie-bar.
 They are not the same thing and do not serve the same purpose and should not be assumed as such.
 There is also an "affrication" combining diacritic.
 ====================================================================================================
-
   The TPA is not designed with a specific language in mind. In fact, it has nothing to do with any language but instead
 it is entirelty designed based on the mechanisms of the human vocal tract.
 
