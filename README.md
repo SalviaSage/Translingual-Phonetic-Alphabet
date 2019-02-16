@@ -33,7 +33,11 @@ If you want to see the TPA being used in phonetic transcriptions.
 **You can read my gist publication here:**
 https://gist.github.com/SalviaSage/12e4a437325a96351f8fbe85db7631cb
 
-If you want to see in which way the TPA differs from the IPA read below.
+**Thanks for your interest in the TPA, feel free to raise any issues on the Issues page here:**
+
+https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/issues
+
+If you want to see in which way the TPA differs from the IPA, read below.
 
 ~~~
 What are the differences between the IPA and the TPA?
@@ -48,7 +52,7 @@ But, eventually I believe I established a system that works.
 The vocoids are more so approximations than the contoids due to their free floating nature and being "unrestricted"
 from the places of articulations that the contoids are placed on.
 
-There are about 365 simple contoid phones in the TPA. They don't all have their own letters due to the fact that
+There are about 365 simple contoid phones (as of v2.2) in the TPA. They don't all have their own letters due to the fact that
 there are so many of them, but they are all written distinctively from one another.
 Thus, although some of these phones may use the same glyph, they will have various accompanying arrow markings as well
 as combining diacritics which still differentiates them from one another.
@@ -67,13 +71,15 @@ starting from the lips going further back.
 There isn't an official ordering of phones in the IPA, but in charts you often see it ordered starting from the lips.
 This is not the case with the TPA as it is "officially" ordered starting from the glottis moving up.
 
-The "Manner of Articulations" are also ordered starting from the most restrictive "Manner of Articulation" moving down
+The "Manner of Articulations" are also ordered starting from the most restrictive moving down
 all the way down to the least restrictive "Manner of Articulation".
 ====================================================================================================
   TPA divides phones into two main categories called "simple phones" and "complex phones".
-The simple phones are differentiated from one another based on the criteria of "places of articulation" (about 22 as of v2.1),
-the "manners of articulation" (about 12 as of v2.1), voicing of the vocal cords (if applicable, 2 distinctions), as well as
-the "manner of production". The "complex phones" are simple phones that have an added "secondary articulation" applied on to them.
+The simple phones are differentiated from one another based on the criteria of "places of articulation" (about 22 as of v2.2),
+the "manners of articulation" (about 14 as of v2.2), voicing of the vocal cords
+(if applicable, 2 distinctions, voiceless and voiced), as well as the "manner of production".
+
+The "complex phones" are simple phones that have an added "secondary articulation" applied on to them.
 This secondary articulation can be a co-articulation with another phone or it can be a specific articulatory action within the vocal tract.
 For example, a simple phone may be pronounced at the same time as the tongue being raised up towards the plate.
 This secondary articulation is called "palatalization" and this phone would be considered a "complex phone".
@@ -85,37 +91,48 @@ But, what it is, is it deals with the articulatory mechanisms that are employed 
 There are 7 different distinct categories of "MoPs" in the TPA. 3 of them are bidirectional. They are:
 
 Pulmonic Egressives (Pulmonics) (voiceless and voiced)
-Pulmonic Ingressives (Pulmonic Ingressives) (voiceless and voiced)
+Pulmonic Ingressives (voiceless and voiced)
 
-Glottalic Egressives (Ejectives) (voiceless only)
-Glottalic Ingressives (Implosives) (voiceless and voiced)
+Glottalic Egressives (Ejectives) (voiceless only) (occlusive and strives only)
+Glottalic Ingressives (Implosives) (voiceless and voiced) (occlusives only)
 
 Lingual Egressives (Velarics) (voicing does not apply)
 Lingual Ingressives (Clicks) (voicing does not apply)
 
 Percussives (Closures) (voicing does not apply)
 
-In the egressives, the direction of movement is outwards such in the way that the first place of articulation is the glottis.
+In the egressives, the direction of movement is outwards towards the oral cavity or the nasal cavity and exiting outwards.
 In the ingressives the direction is inwards such that the first place of articulation may be the nose or the lips
 (depending on which cavity the air is being sucked in through)
 
-Furthermore, two pathways are identified and they are "nasal" and "oral".
+Furthermore, two "pathways" are identified and they are "nasal" and "oral".
+The air may take either of the two exits and the speaker can direct the sounds as such.
 
 In the Percussives there is no outward or inward direction.
 The articulators are simply made to move towards one another and strike one another.
+This mechanism of course is not possible everywhere in the vocal tract.
+It is for example possible using both of the lips, both the upper teeth and the lower teeth
+or the left and the right vocal cords coming together to seal the glottal opening.
 
 ====================================================================================================
   There are different combinations of PoAs, MoAs, and other factors such as "occlusivity" which determines whether
 a phone is possible to be articulated or not.
 
-====================================================================================================
-  Proof is necessary for the inclusion of a phone into the TPA and currently there are over 350 different simple phones in the TPA. Each one gets its own letter if possible. 
+There are three levels of occlusiveness identified by the TPA. These are:
+"occlusives" Occlusives are sounds where a complete obstruction is made in the vocal tract. (consonants)
+"strictives" Strictives are sounds where a partial obstruction is made in the vocal tract. (consonants)
+"non-strictives" are sounds where an obstruction is not made in the vocal tract and the sound simply exits out. (vowels)
 
-But, due to the shortage of compatible letters and an effort to make the alphabet simpler, some of these phones will use the same glyph as other phones, albeit with a combining diacritic or it will be accompanied by an arrow sign indicating a different
+====================================================================================================
+  Proof is necessary for the inclusion of a phone into the TPA and currently there are over 400 different simple phones in the TPA. Each one has to look distinct from one another in some way and they can not have any free floating diacritics.
+(as that is reserved for complex phones)
+
+But, due to the shortage of compatible letters, some of these phones will use the same glyph as other phones,
+albeit with a combining diacritic or it will be accompanied by an arrow sign indicating a different
 manner of production.
 ====================================================================================================
   A vast array of combining diacritics and punctuation marks are provided in the TPA. Not only to indicate phonetic phenomena
-but also to indicate and mark phonological as well as grammatical phenomena that may be found in a language.
+but also to indicate and mark phonological as well as grammatical phenomena that may be found in languages.
 ====================================================================================================
   The TPA makes a distinction between the manners of articulation called "plosives" and "stops".
 In the IPA, these terms are used interchangeably. Whereas in the TPA,
@@ -155,11 +172,23 @@ They are not the same thing and do not serve the same purpose and should not be 
 There is also an "affrication" combining diacritic.
 ====================================================================================================
 
-  The TPA is not designed with a specific language in mind, in fact it has nothing to do with any language but instead
+  The TPA is not designed with a specific language in mind. In fact, it has nothing to do with any language but instead
 it is entirelty designed based on the mechanisms of the human vocal tract.
 
-The TPA is not designed for use in Diagnostic or Therapeutic fields. Although it may be used as such.
-It is also not designed for use in the voice recognition technology, although I think it may be quite compatible for that.
+I believe this is the best methodology for creating an accurate phonetic alphabet.
+
+The TPA is not designed for use in speech therapy. Although it may be used as such.
+
+The TPA is not designed for use in voice recognition technology.
+However, it is designed for computational linguistics.
+I don't know how well it would fare in that field as I do not have experience with it.
+
+The TPA is not designed for use in conlanging. But, again, it may be used as such.
+
+I successfully use this alphabet with any language and in any linguisic work as a valuable linguistics research tool.
+I do not use the IPA or any other method as I believe this method that I created is superior to everything else.
+
+I would like to invite others to also use this alphabet in linguistic research.
 
 ~~~
 
