@@ -72,7 +72,7 @@ There isn't an official ordering of phones in the IPA, but in charts you often s
 This is not the case with the TPA as it is "officially" ordered starting from the glottis moving up.
 
 The "Manner of Articulations" are also ordered starting from the most restrictive moving down
-all the way down to the least restrictive "Manner of Articulation".
+to the least restrictive "Manner of Articulation".
 ====================================================================================================
   TPA divides phones into two main categories called "simple phones" and "complex phones".
 The simple phones are differentiated from one another based on the criteria of "places of articulation" (about 22 as of v2.2),
