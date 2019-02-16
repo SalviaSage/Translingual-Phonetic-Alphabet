@@ -40,8 +40,22 @@ What are the differences between the IPA and the TPA?
 
 The TPA is based on the IPA, however there are some important differences:
 ====================================================================================================
-  Its vowel system is quite different than that of the IPA's.
-However, its consonant system is similar to that of the IPA's.
+Both its consonant and vowel system is based on the IPA and both areas are changed.
+
+The TPA has 30 simple vocoids, this number is set and will not be changing in the future versions.
+Establishing the vowel system of this phonetic alphabet was difficult.
+But, eventually I believe I established a system that works.
+The vocoids are more so approximations than the contoids due to their free floating nature and being "unrestricted"
+from the places of articulations that the contoids are placed on.
+
+There are about 365 simple contoid phones in the TPA. They don't all have their own letters due to the fact that
+there are so many of them, but they are all written distinctively from one another.
+Thus, although some of these phones may use the same glyph, they will have various accompanying arrow markings as well
+as combining diacritics which still differentiates them from one another.
+Simply put, no two different phones looks exactly the same in the TPA.
+
+The number of contoids is not set and is ever growing.
+It may actually reach upwards to about 390 or so, but I don't believe it will ever surpass 400.
 ====================================================================================================
   It orders the phones starting from the throat as it considers the starting point of the phones
 and the first place of articulation for phones to be the glottis (throat) and the last place of articulation 
