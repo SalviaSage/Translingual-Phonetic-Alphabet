@@ -1,3 +1,5 @@
+Updated: (2019-03-19)
+
 # Translingual Phonetic Alphabet
 The Translingual Phonetic Alphabet (**TPA**) is a phonetic alphabet that is based on the International Phonetic Alphabet (**IPA**).
 
