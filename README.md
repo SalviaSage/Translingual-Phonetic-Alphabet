@@ -5,6 +5,7 @@ I created the **TPA** because I found the **IPA** to be inaccurate, illegible, c
 
 I wanted to create an alphabet that was more logical, that made more sense, that was more legible, that was more extensive,
 that was more compatible with computational linguistics and that was completely based on **Unicode** for use in computers.
+
 (The **IPA** is also completely based on **Unicode**.)
 
 In this repository, you can find some LibreOffice (**.ods**) document files as well as other files
@@ -188,7 +189,8 @@ This system is based on boolean logic, and I try to ensure that nothing violates
 
 ====================================================================================================
 INCLUSION OF LETTERS:
-  Proof of pronunciation is necessary for the inclusion of a phone into the TPA and currently there are over 400 different simple phones in the TPA.
+  Proof of pronunciation is necessary for the inclusion of a phone into the TPA and currently there are over 400 different
+simple phones in the TPA.
 Each letter has to look distinct from one another in some way and they can not have any free floating diacritics.
 (as that is reserved for the combining diacritics for the representation of complex phones)
 
@@ -206,7 +208,8 @@ because we reserve the term "stops" for what the IPA calls "unreleased plosives"
 The articulatory explanation for these "unreleased plosives" is that there is a glottal closure which accompanies the plosive.
 This makes it so that the plosives can not "explode" and thus are accurately called "stops" in the TPA.
 
-Stops however are not considered to have their own manner of articulation but are simply plosives with an added secondary articulation (glottal closure)
+Stops however are not considered to have their own manner of articulation but are simply plosives with an added
+secondary articulation (glottal closure)
 ====================================================================================================
 LETTER CASE:
 	The TPA is made up entirely of small case letters or letters that do not have case. (it is a caseless alphabet)
