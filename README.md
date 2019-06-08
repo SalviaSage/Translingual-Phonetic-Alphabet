@@ -57,8 +57,12 @@ The vowels are based on the metrics of the human mouth, the tongue, the jaw and 
 The vocoids are more so approximations than the contoids due to their free floating nature and being "unrestricted"
 from the places of articulations that the contoids are placed on. Nonetheless, I believe they are accurate approximations.
 
-Also, they do not employ a different system than the contoids, they relate to the contoids.
+Please download the included file vocoids.rar to hear these vocoids.
+
+Also, the vowels do not employ a different system than the contoids, they relate to the contoids.
 There are no 2 different charts for vocoids and contoids in the TPA.
+
+It is all a fluid transition from the most restricted of sounds to the least restricted sounds in the human vocal tract.
 
 There are about 280 or possibly up to 300 simple contoid phones (consonants) in the TPA.
 Because, more contoids are being discovered and added, this number is not set and is ever growing (unlike the vowels).
@@ -66,7 +70,7 @@ Because, more contoids are being discovered and added, this number is not set an
 They don't all have their own glyphs because there are so many of them and there aren't enough appropriate letters.
 But, they are all written distinctively from one another with the help of accompanying arrow characters and diacritics.
 
-Thus, although some of these phonetic letters may use the same glyphs, no two letter is identical.
+Thus, although some of these phonetic letters may use the same glyphs, no two sound has an identical letter.
 
 ====================================================================================================
 THE PLACES OF ARTICULATIONS:
