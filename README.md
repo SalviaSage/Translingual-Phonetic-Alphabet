@@ -56,7 +56,7 @@ https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/issues
 
 If you want to see in which way the TPA differs from the IPA or want to get general information regarding the TPA,
 **You can read my gist publication here:**
-
+https://gist.github.com/SalviaSage/1bfd9b7adde93deac89c9a691675c200
 
 **Thanks for your interest in the TPA, feel free to raise any issues on the Issues page here:**
 
