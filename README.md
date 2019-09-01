@@ -1,4 +1,4 @@
-Updated: (2019-05-07)
+Updated: (2019-09-01)
 
 # Translingual Phonetic Alphabet
 The Translingual Phonetic Alphabet (**TPA**) is a phonetic alphabet that is based on the International Phonetic Alphabet (**IPA**).
@@ -50,9 +50,6 @@ https://gist.github.com/SalviaSage/a08f5d6d8761f38df8e61470a679d4eb
 If you want to see the TPA being used in phonetic transcriptions.
 **You can read my gist publication here:**
 https://gist.github.com/SalviaSage/12e4a437325a96351f8fbe85db7631cb
-
-**Thanks for your interest in the TPA, feel free to raise any issues on the Issues page here:**
-https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/issues
 
 If you want to see in which way the TPA differs from the IPA or want to get general information regarding the TPA,
 **You can read my gist publication here:**
