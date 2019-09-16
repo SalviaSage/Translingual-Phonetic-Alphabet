@@ -1,4 +1,4 @@
-Updated: (2019-09-01)
+Updated: (2019-09-15)
 
 # Translingual Phonetic Alphabet
 The Translingual Phonetic Alphabet (**TPA**) is a phonetic alphabet that is based on the International Phonetic Alphabet (**IPA**).
@@ -43,6 +43,8 @@ I am not the author of this font, but I am hosting it here as I can not find thi
 **Link to the Repository of the font:**
 https://github.com/SalviaSage/Code2000-Font
 
+Also, as of version 3.2 a keyboard typable method has been uploaded and is being developed.
+
 If you are looking for a guide on how to use the TPA for doing phonetic notations and want more instructions and details.
 **You can read my gist publication here:**
 https://gist.github.com/SalviaSage/a08f5d6d8761f38df8e61470a679d4eb
@@ -54,6 +56,7 @@ https://gist.github.com/SalviaSage/12e4a437325a96351f8fbe85db7631cb
 If you want to see in which way the TPA differs from the IPA or want to get general information regarding the TPA,
 **You can read my gist publication here:**
 https://gist.github.com/SalviaSage/1bfd9b7adde93deac89c9a691675c200
+
 
 **Thanks for your interest in the TPA, feel free to raise any issues on the Issues page here:**
 
