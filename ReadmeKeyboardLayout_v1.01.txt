@@ -1,4 +1,4 @@
-This is the version 1.0 of the keyboard typeable method for the TPA.
+This is the version 1.01 of the keyboard typeable method for the TPA.
 
 It is quite rudimentary at this point but it will show a blue keyboard icon on the system tray when it is not active.
 
