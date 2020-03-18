@@ -1,4 +1,4 @@
-Updated: (2019-10-29) https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/releases
+Updated: (2020-03-18) https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/releases
 
 # Translingual Phonetic Alphabet
 The Translingual Phonetic Alphabet (**TPA**) is a phonetic alphabet that is based on the International Phonetic Alphabet (**IPA**).
@@ -22,7 +22,6 @@ of the subject. For example, I did not understand how ejective consonants were p
 which said that there were such consonant sounds and viewed a video clip where someone was pronouncing them correctly.
 I myself was unable to pronounce them, nor did I know how to. However, I finally figured out how many different
 sounds are pronounced in the human vocal tract and I proceeded to categorize them and create my own phonetic alphabet.
-
 
 In this repository, you can find some LibreOffice (**.ods**) document files as well as other files
 that document the letters of the Translingual Phonetic Alphabet as well as its combining diacritics and other graphical markings
@@ -53,17 +52,12 @@ If you want to see the TPA being used in phonetic transcriptions.
 **You can read my gist publication here:**
 https://gist.github.com/SalviaSage/12e4a437325a96351f8fbe85db7631cb
 
-If you want to see in which way the TPA differs from the IPA or want to get general information regarding the TPA,
-**You can read my gist publication here:**
-https://gist.github.com/SalviaSage/1bfd9b7adde93deac89c9a691675c200
-
-
 **Thanks for your interest in the TPA, feel free to raise any issues on the Issues page here:**
 
 https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/issues
 
 ~~~
-Copyright 2019 SalviaSage
+Copyright 2020 SalviaSage
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
