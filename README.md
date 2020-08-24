@@ -1,11 +1,13 @@
-Updated: (2020-03-18) https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/releases
+Updated: (2020-08-24)\
+https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/releases
 
 # Translingual Phonetic Alphabet
+
 The Translingual Phonetic Alphabet (**TPA**) is a phonetic alphabet that is based on the International Phonetic Alphabet (**IPA**).
 
 I created the **TPA** because I found the **IPA** to be too inaccurate, illegible, computer incompatible and inextensive.
 
-Don't get me wrong, I think the IPA is a great alphabet. Here is a wikipedia link to it if you want to learn more:
+Don't get me wrong, I think the IPA is a great alphabet. Here is a Wikipedia link to it if you want to learn more:
 https://en.wikipedia.org/wiki/International_Phonetic_Alphabet
 
 I wanted to create an alphabet that was more logical, that made more sense, that was more legible, that was more extensive,
@@ -42,7 +44,7 @@ I am not the author of this font, but I am hosting it here as I can not find thi
 **Link to the Repository of the font:**
 https://github.com/SalviaSage/Code2000-Font
 
-Also, as of version 3.2 a keyboard typable method has been uploaded and is being developed.
+Also, as of version 3.2 a keyboard typeable method has been uploaded and is being developed.
 
 If you are looking for a guide on how to use the TPA for doing phonetic notations and want more instructions and details.
 **You can read my gist publication here:**
@@ -51,6 +53,11 @@ https://gist.github.com/SalviaSage/a08f5d6d8761f38df8e61470a679d4eb
 If you want to see the TPA being used in phonetic transcriptions.
 **You can read my gist publication here:**
 https://gist.github.com/SalviaSage/12e4a437325a96351f8fbe85db7631cb
+
+If you want to hear some of the audio recordings I made where I make explanations and demonstrations:
+**You can find them here:**
+
+https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/tree/master/Audio%20Recordings
 
 **Thanks for your interest in the TPA, feel free to raise any issues on the Issues page here:**
 
