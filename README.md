@@ -1,4 +1,4 @@
-Updated: (2020-08-24)\
+Updated: (2020-10-13)\
 https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/releases
 
 # Translingual Phonetic Alphabet
@@ -25,14 +25,14 @@ which said that there were such consonant sounds and viewed a video clip where s
 I myself was unable to pronounce them, nor did I know how to. However, I finally figured out how many different
 sounds are pronounced in the human vocal tract and I proceeded to categorize them and create my own phonetic alphabet.
 
-In this repository, you can find some LibreOffice (**.ods**) document files as well as other files
+In this repository, you can find some LibreOffice (**.ods**) and Portable Document Format (**.pdf**) document files as well as other files
 that document the letters of the Translingual Phonetic Alphabet as well as its combining diacritics and other graphical markings
 with information and audio files.
 
 The alphabet is still in development, however it has come to a usable point after version 2.
 
 These spreadsheet files can also be opened in Microsoft Excel.
-(Note: some of the code that the spreadsheets use will not work there.)
+(Note: some of the code that the spreadsheets use may not work there.)
 
 If you are looking for a good, capable font that can display all of the letters of the **TPA**.
 I highly suggest that you download the font called **Code2000** and use it on any **TPA** phonetic transcription.
@@ -45,6 +45,7 @@ I am not the author of this font, but I am hosting it here as I can not find thi
 https://github.com/SalviaSage/Code2000-Font
 
 Also, as of version 3.2 a keyboard typeable method has been uploaded and is being developed.
+https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/tree/master/Win10%20Keyboard%20Typable%20Method
 
 If you are looking for a guide on how to use the TPA for doing phonetic notations and want more instructions and details.
 **You can read my gist publication here:**
@@ -56,11 +57,12 @@ https://gist.github.com/SalviaSage/12e4a437325a96351f8fbe85db7631cb
 
 If you want to hear some of the audio recordings I made where I make explanations and demonstrations:
 **You can find them here:**
-
 https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/tree/master/Audio%20Recordings
 
-**Thanks for your interest in the TPA, feel free to raise any issues on the Issues page here:**
+"GitHub" is where I aim to host the entirety of the project in its electronic format forever unless otherwise.
+I will not be creating a print form of this project as I find no need to do so, but I do not object to that notion otherwise.
 
+**Thanks for your interest in the TPA, feel free to raise any issues on the Issues page here:**
 https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/issues
 
 ~~~
