@@ -1,4 +1,4 @@
-Updated: (2020-10-13)\
+Updated: (2021-05-02)\
 https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/releases
 
 # Translingual Phonetic Alphabet
@@ -73,7 +73,7 @@ The alphabet I created, of course correlates with that work.
 I will not be creating a print form of this project as I find no need to do so, but I do not object to that notion otherwise.*
 
 ~~~
-Copyright 2020 SalviaSage
+Copyright 2021 SalviaSage
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
