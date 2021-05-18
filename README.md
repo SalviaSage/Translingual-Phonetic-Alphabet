@@ -65,7 +65,7 @@ https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/issues
 
 
 Also of note, I have written a "thesis" on the subject of Articulatory Phonetics:\
-https://gist.github.com/SalviaSage/0bf2917ab22865d0a5fe45730223ee01
+https://gist.github.com/SalviaSage/1e7671e4cec5044a88398cce24c57abf
 The alphabet I created, of course correlates with that work.
 
 
