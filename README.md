@@ -1,4 +1,4 @@
-Updated: (2021-05-02)\
+Updated: (2021-07-04)\
 https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/releases
 
 # Translingual Phonetic Alphabet
@@ -14,7 +14,7 @@ https://en.wikipedia.org/wiki/International_Phonetic_Alphabet
 I wanted to create an alphabet that was more logical, that made more sense, that was more legible, that was more extensive,
 that was more compatible with computational linguistics and that was completely based on **Unicode** for use in computers.
 
-(The **IPA** also has complete representation in **Unicode**.)
+(The **IPA** has complete representation in **Unicode**.)
 
 **ABOUT:**
 I created this alphabet after having taken a break from the study of phonetics in order to study computer programming.
@@ -23,14 +23,15 @@ There, I learned of the importance of logical thinking, as computer programs do 
 After having understood the concept of logic, I came back to phonetics and now I was able to have a deeper understanding
 of the subject. For example, I did not understand how ejective consonants were pronounced. Even though I read articles
 which said that there were such consonant sounds and viewed a video clip where someone was pronouncing them correctly.
-I myself was unable to pronounce them, nor did I know how to. However, I finally figured out how many different
-sounds are pronounced in the human vocal tract and I proceeded to categorize them and create my own phonetic alphabet.
+I myself was unable to pronounce them, nor did I know how to. However, I finally figured out how, many different
+sounds are pronounced in the human vocal tract and I proceeded to categorize them and I created my own phonetic alphabet.
 
 In this repository, you can find some LibreOffice (**.ods**) and Portable Document Format (**.pdf**) document files as well as other files
-that document the letters of the Translingual Phonetic Alphabet as well as its combining diacritics and other graphical markings
+that document the letters of the Translingual Phonetic Alphabet and its combining diacritics and other graphical markings
 with information and audio files.
 
-The alphabet is still in development, however it has come to a usable point after version 2.
+The alphabet has come to a usable point after version 2 and was greatly improved since then as well.
+I am not planning to work on this alphabet further into my thirties as I think it is already advanced and it is working really well.
 
 These spreadsheet files can also be opened in Microsoft Excel.\
 (Note: some of the code that the spreadsheets use may not work there.)
