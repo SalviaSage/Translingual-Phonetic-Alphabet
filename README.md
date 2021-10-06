@@ -7,14 +7,11 @@ The Translingual Phonetic Alphabet (**TPA**) is a phonetic alphabet that is base
 
 I created the **TPA** because I found the **IPA** to be too inaccurate, illegible, computer incompatible and inextensive.
 
-Don't get me wrong, I think the IPA is a great phonetic alphabet.\
-Here is a Wikipedia link to it if you want to learn more:\
+I wanted to create an alphabet that was more logical, more legible, more aesthetically pleasing and computer compatible.
+Thus, the TPA is a complete unicode phonetic alphabet that is suitable to be used with computers.
+
+The **IPA** has complete representation in **Unicode**.
 https://en.wikipedia.org/wiki/International_Phonetic_Alphabet
-
-I wanted to create an alphabet that was more logical, that made more sense, that was more legible, that was more extensive,
-that was more compatible with computational linguistics and that was completely based on **Unicode** for use in computers.
-
-(The **IPA** has complete representation in **Unicode**.)
 
 **ABOUT:**
 I created this alphabet after having taken a break from the study of phonetics in order to study computer programming.
@@ -30,7 +27,7 @@ In this repository, you can find some LibreOffice (**.ods**) and Portable Docume
 that document the letters of the Translingual Phonetic Alphabet and its combining diacritics and other graphical markings
 with information and audio files.
 
-The alphabet has come to a usable point after version 2 and was greatly improved since then as well.
+The alphabet has come to a usable point after version 2 and it was greatly improved since then as well.
 I am not planning to work on this alphabet further into my thirties as I think it is already advanced and it is working really well.
 
 These spreadsheet files can also be opened in Microsoft Excel.\
@@ -53,10 +50,6 @@ If you are looking for a guide on how to use the TPA for doing phonetic notation
 **You can read my gist publication here:**\
 https://gist.github.com/SalviaSage/a08f5d6d8761f38df8e61470a679d4eb
 
-If you want to see the TPA being used in phonetic transcriptions.\
-**You can read my gist publication here:**\
-https://gist.github.com/SalviaSage/12e4a437325a96351f8fbe85db7631cb
-
 If you want to hear some of the audio recordings I made where I make explanations and demonstrations:\
 **You can find them here:**\
 https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/tree/master/Audio%20Recordings
@@ -65,16 +58,14 @@ https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/tree/master/Audio%2
 https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/issues
 
 
-Also of note, I have written a "thesis" on the subject of Articulatory Phonetics:\
+Also of note, I have written a "scientific literary work" on the subject of Articulatory Phonetics:\
 https://gist.github.com/SalviaSage/1e7671e4cec5044a88398cce24c57abf
-The alphabet I created, of course correlates with that work.
-
 
 *"GitHub" is where I aim to host the entirety of the project in its electronic format forever unless otherwise.
 I will not be creating a print form of this project as I find no need to do so, but I do not object to that notion otherwise.*
 
 ~~~
-Copyright 2021 SalviaSage
+Copyright 2021-20** SalviaSage
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
