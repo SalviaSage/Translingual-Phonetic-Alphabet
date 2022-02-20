@@ -1,6 +1,3 @@
-Updated: (2022-02-20)
-https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/releases
-
 # Translingual Phonetic Alphabet
 
 The Translingual Phonetic Alphabet (**TPA**) is a phonetic alphabet that is based on the International Phonetic Alphabet (**IPA**).
