@@ -1,34 +1,33 @@
-Updated: (2021-07-04)\
+Updated: (2022-02-20)
 https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/releases
 
 # Translingual Phonetic Alphabet
 
 The Translingual Phonetic Alphabet (**TPA**) is a phonetic alphabet that is based on the International Phonetic Alphabet (**IPA**).
+This is the repository where I host documentation related to this scientific project.
 
-I created the **TPA** because I found the **IPA** to be too inaccurate, illegible, computer incompatible and inextensive.
+I created the **TPA** because I found the **IPA** to be too inaccurate, illegible, computer incompatible, inextensive and that it "looks bad".
 
-I wanted to create an alphabet that was more logical, more legible, more aesthetically pleasing and computer compatible.
-Thus, the TPA is a complete unicode phonetic alphabet that is suitable to be used with computers.
+I wanted to create a phonetic alphabet that was more logical, more legible, more aesthetically pleasing and computer compatible.
+Thus, the TPA is a complete Unicode phonetic alphabet that is suitable to be used with computers.
+This project is in continuous development and it is mainted by its author.
 
-The **IPA** has complete representation in **Unicode**.
+The **IPA** also has complete representation in **Unicode**:
 https://en.wikipedia.org/wiki/International_Phonetic_Alphabet
 
 **ABOUT:**
-I created this alphabet after having taken a break from the study of phonetics in order to study computer programming.
+I created the **TPA** after having taken a break from the study of phonetics in order to study computer programming.
 There, I learned of the importance of logical thinking, as computer programs do not work if you do not follow logic.
 
-After having understood the concept of logic, I came back to phonetics and now I was able to have a deeper understanding
-of the subject. For example, I did not understand how ejective consonants were pronounced. Even though I read articles
-which said that there were such consonant sounds and viewed a video clip where someone was pronouncing them correctly.
-I myself was unable to pronounce them, nor did I know how to. However, I finally figured out how, many different
-sounds are pronounced in the human vocal tract and I proceeded to categorize them and I created my own phonetic alphabet.
+After having understood the concepts of logic, I came back to phonetics and now I was able to have a deeper understanding
+of the subject. For example, I did not understand how ejective consonants were pronounced. I read articles
+which claimed that there were such consonants and I viewed a video clip where someone pronounced them correctly.
+I myself was unable to pronounce them. I did not know how to; however, I finally figured out how to pronounce them alongside many different
+sounds pronounceable by the human vocal tract and I proceeded to categorize them and I created my own phonetic alphabet.
 
 In this repository, you can find some LibreOffice (**.ods**) and Portable Document Format (**.pdf**) document files as well as other files
-that document the letters of the Translingual Phonetic Alphabet and its combining diacritics and other graphical markings
+and screenshots that document the letters of the Translingual Phonetic Alphabet and its combining diacritics and other graphical markings
 with information and audio files.
-
-The alphabet has come to a usable point after version 2 and it was greatly improved since then as well.
-I am not planning to work on this alphabet further into my thirties as I think it is already advanced and it is working really well.
 
 These spreadsheet files can also be opened in Microsoft Excel.\
 (Note: some of the code that the spreadsheets use may not work there.)
