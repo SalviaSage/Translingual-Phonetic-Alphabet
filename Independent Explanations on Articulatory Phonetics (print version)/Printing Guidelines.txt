@@ -1,0 +1,3 @@
+Right-click the cell, then “Clear Direct Formatting”. This will also reset all formatting you might have applied, but it will remove hyperlink.
+
+If you want to permanently disable automatic hyperlinking, go to Tools → AutoCorrect Options, “Options” tab and uncheck “URL Recognition”.
