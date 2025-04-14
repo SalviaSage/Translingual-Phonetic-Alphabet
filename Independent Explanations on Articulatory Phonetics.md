@@ -3,7 +3,7 @@
 ##### A Criticism of the International Phonetic Alphabet
 
 Typed by ﻿: Mister Özgün Öztekin (﻿ ﻿SalviaSage﻿ ﻿)  
-Date of last revision ﻿: 2024 ﻿-﻿ 08 ﻿-﻿ 26  
+Date of last revision ﻿: 2025 ﻿-﻿ 04-﻿ 13  
 Word count ﻿: ~﻿ ﻿26,﻿ ﻿000  
 Paragraph count ﻿: ~﻿ ﻿391  
 Chapter count﻿ ﻿: 20
@@ -431,26 +431,26 @@ IPA Examples﻿ ﻿: [﻿ m, n, ŋ, ɲ, ɳ, ɴ ﻿]
 
 [﻿](§3.52)There are also whistled sibilants. They are sounds like [ s ] and [ ʒ ] that are whistled alongside their normal pronunciations. They are found in some African languages, such as the Shona language from Mozambique. { s̎ } and { ş̎ } in the TPA.
 
-##### [﻿](§3.53)*(﻿ ﻿11﻿ ﻿) Bilateral Approximants (﻿ ﻿lateral approximants﻿ ﻿)﻿ ﻿:*
+##### [﻿](§3.53)*(﻿ ﻿11﻿ ﻿) Bilateral Fricatives (﻿ ﻿lateral approximants﻿ ﻿)﻿ ﻿:*
 
-[﻿](§3.54)These are lingual consonants whereby the tongue blocks the centre of the mouth and allows the air to pass through on both the left and right sides of the mouth. They are called lateral approximants in the IPA, but I favour the term “ bilateral approximant ”. This is represented by the letter ‘ L , l ’ in the Latin alphabet. After some research, I concluded that their level of occlusion is about that of the approximants; however, with the exception that there is full occlusion at the centre with the tongue, which is not the case with approximants. They are called “ lateral approximants ” in the IPA.
+[﻿](§3.54)These are lingual consonants whereby the tongue blocks the centre of the mouth and allows the air to pass through on both the left and right sides of the mouth. This is represented by the letter ‘ L , l ’ in the Latin alphabet. After some research, I concluded that their level of occlusion is about that of the fricatives; however, with the exception that there is full occlusion at the centre with the tongue, which is not the case with approximants. They are called “ lateral approximants ” in the IPA, but I favour the term “ bilateral fricative ”.
 
 [﻿](§3.55)~~[ ʟ̠ ] voiced uvular bilateral approximant ( ﻿U + 029F﻿ ) “ latin letter small capital l ”~~ ⁽ ¹ ⁾  
 ~~[ ʟ̠̥ ] voiceless uvular bilateral approximant ( ﻿U + 029F﻿ ) “ latin letter small capital l ”~~ ⁽ ¹ ⁾  
 ~~[ ʟ ] voiced velar bilateral approximant ( ﻿U + 029F﻿ ) “ latin letter small capital l ”~~ ⁽ ¹ ⁾  
 ~~[ ʟ̥ ] voiceless velar bilateral approximant ( ﻿U + 029F﻿ ) “ latin letter small capital l ”~~ ⁽ ¹ ⁾
 
-[﻿](§3.56){ λ } voiced palatal bilateral approximant ( ﻿U + 03BB﻿ ) “ greek small letter lamda ” ( ﻿[ ʎ ] in IPA﻿ )  
-{ ƛ } voiceless palatal bilateral approximant ( ﻿U + 019B﻿ ) “ latin small letter lambda with stroke ”  
-{ ȴ } voiced postalveolar bilateral approximant ( ﻿U + 0234﻿ ) “ latin small letter l with curl ”  
-{ ᶅ } voiced retroflex bilateral approximant ( ﻿U + 1D85﻿ ) “ latin small letter l with palatal hook ”  
-{ l } voiced alveolar bilateral approximant ( ﻿U + 006C﻿ ) “ latin small letter l ”  
-{ ł } voiced velarised alveolar bilateral approximant ( ﻿Dark L﻿ ) ( ﻿U + 0142﻿ ) “ latin small letter l with stroke ”  
-{ ƚ } voiceless alveolar bilateral approximant ( ﻿U + 0142﻿ ) “ latin small letter l with stroke ”  
-{ ʟ } voiced dental bilateral approximant ( ﻿U + 029F﻿ ) “ latin letter small capital l ”  
-{ ᴌ } voiceless dental bilateral approximant ( ﻿U + 1D0C﻿ ) “ latin letter small capital l with stroke ”  
-{ ɫ } voiced interdental bilateral approximant ( ﻿U + 026B﻿ ) “ latin small letter l with middle tilde ”  
-{ ꬸ } voiceless interdental bilateral approximant ( ﻿U + AB38﻿ ) “ latin small letter l with double middle tilde ”
+[﻿](§3.56){ λ } voiced palatal bilateral fricative ( ﻿U + 03BB﻿ ) “ greek small letter lamda ” ( ﻿[ ʎ ] in IPA﻿ )  
+{ ƛ } voiceless palatal bilateral fricative ( ﻿U + 019B﻿ ) “ latin small letter lambda with stroke ”  
+{ ȴ } voiced postalveolar bilateral fricative ( ﻿U + 0234﻿ ) “ latin small letter l with curl ”  
+{ ᶅ } voiced retroflex bilateral fricative ( ﻿U + 1D85﻿ ) “ latin small letter l with palatal hook ”  
+{ l } voiced alveolar bilateral fricative ( ﻿U + 006C﻿ ) “ latin small letter l ”  
+{ ł } voiced velarised alveolar bilateral fricative ( ﻿Dark L﻿ ) ( ﻿U + 0142﻿ ) “ latin small letter l with stroke ”  
+{ ɬ } voiceless alveolar bilateral fricative ( ﻿U+026C﻿ ) “ latin small letter l with belt ”  
+{ ʟ } voiced dental bilateral fricative ( ﻿U + 029F﻿ ) “ latin letter small capital l ”  
+{ ᴌ } voiceless dental bilateral fricative ( ﻿U + 1D0C﻿ ) “ latin letter small capital l with stroke ”  
+{ ɫ } voiced interdental bilateral fricative ( ﻿U + 026B﻿ ) “ latin small letter l with middle tilde ”  
+{ ꬸ } voiceless interdental bilateral fricative ( ﻿U + AB38﻿ ) “ latin small letter l with double middle tilde ”
 
 [﻿](§3.57)⁽﻿ ﻿¹﻿ ﻿⁾ Ruled invalid and unpronounceable as such due to the flexibility of the back side of the tongue.
 
@@ -458,7 +458,7 @@ IPA Examples﻿ ﻿: [﻿ m, n, ŋ, ɲ, ɳ, ɴ ﻿]
 
 ##### [﻿](§3.59)*(﻿ ﻿12﻿ ﻿) Ejectives (﻿ ﻿glottalic egressives﻿ ﻿)﻿ ﻿:*
 
-[﻿](§3.60)The ejectives are similar to the implosives in the sense that the glottis is closed during their articulations. However, unlike the implosives, which are pronounced with a downward motion of the glottis, the ejectives are pronounced with an upward motion of the glottis. Ejectives can only be voiceless consonants. Unlike the implosives, they can be plosives, affricates, fricatives, bilateral approximants, and trills. That is, the occlusive and strictive consonants can be “ ejectivised ”. Non﻿ - ﻿strictives, such as approximants and vowels, cannot have ejective pronunciations due to a lack of necessary occlusion.
+[﻿](§3.60)The ejectives are similar to the implosives in the sense that the glottis is closed during their articulations. However, unlike the implosives, which are pronounced with a downward motion of the glottis, the ejectives are pronounced with an upward motion of the glottis. Ejectives can only be voiceless consonants. Unlike the implosives, they can be plosives, affricates, fricatives, bilateral fricatives, and trills. That is, the occlusive and strictive consonants can be “ ejectivised ”. Non﻿ - ﻿strictives, such as approximants and vowels, cannot have ejective pronunciations due to a lack of necessary occlusion.
 
 [﻿](§3.61)NOT A COMPLETE LIST (﻿ ﻿all voiceless﻿ ﻿)﻿ ﻿:
 
@@ -471,7 +471,7 @@ IPA Examples﻿ ﻿: [﻿ m, n, ŋ, ɲ, ɳ, ɴ ﻿]
 { ⱦ↑ } ejective interdental plosive  
 { ȹ↑ } ejective labiodental plosive  
 { p↑ } ejective bilabial plosive  
-{ ƚ↑ } ejective alveolar bilateral approximant  
+{ ɬ↑ } ejective alveolar bilateral fricative  
 { ɍ↑ } ejective alveolar trill  
 { ɕ↑ } ejective postalveolar affricate  
 { ʆ↑ } ejective retroflex affricate  
@@ -750,7 +750,7 @@ This consonant the Wikipedia article talks about is impossible to articulate. Th
 > Voiced velar lateral approximant [ʟ] (in Wahgi)
 > Voiced uvular lateral approximant [ʟ̠] (in some American dialects)
 
-[﻿](§10.26)Here, the article claims that velar and uvular lateral approximants are possible, while I claim that bilateral approximants (‍ ‍lateral‍ ‍approximants‍ ‍) cannot be pronounced at those places of articulation because the tongue is just not flexible enough. I already ruled that the furthest back point for bilateral approximants is at the palatal position. Therefore, the last two entries are just invalid. We know that in bilateral approximants, the tip or body of the tongue blocks the central part of the mouth while the air passes on the right and left sides, hence “ bilateral approximants ”. The further back part of the tongue ( ﻿dorsa﻿ ) just doesn't have the flexibility to pronounce consonants in this way. 
+[﻿](§10.26)Here, the article claims that velar and uvular lateral approximants are possible, while I claim that bilateral fricatives (‍ ‍lateral‍ ‍approximants‍ ‍) cannot be pronounced at those places of articulation because the tongue is just not flexible enough. I already ruled that the furthest back point for lateral approximants is at the palatal position. Therefore, the last two entries are invalid. We know that in lateral approximants, the tip or the body of the tongue blocks the central part of the mouth while the air passes on the right and the left sides, hence “ bilateral approximants ”. The back part of the tongue ( ﻿dorsa﻿ ) just doesn't have the flexibility to pronounce consonants in this way. 
 
 [﻿](§10.27)Also, this list has left out the “ interdental lateral approximant ” for which the IPA already has a character as listed below.
 
@@ -864,12 +864,12 @@ Example long plosive, Turkish language: ⟨ tuttuğunu ⟩ — {{ t̊ut̊t
 
 [﻿](§15.28)Compare TPA { aɕ͓ͪɕ͓ͪaː } versus IPA [ at͡ʃʰːa ]. Ours is just so much more legible. I am proud of the fact that I have created a more legible phonetic alphabet. The IPA is quite illegible, in my opinion.
 
-##### [﻿](§15.29)*Writing long vowels in the TPA :* { ◌ː }, { ◌ːː }
+##### [﻿](§15.29)*Writing long vowels in the TPA :* { ◌ː }, { ◌ːː }, { ◌̄}
 
 [﻿](§15.30)Example long vowel, English language: ⟨ feet ⟩ — { fɪ̱ːt } ( ﻿TPA﻿ ) | ⟨ feet ⟩ — [ fɪ̱ːt ] ( ﻿IPA﻿ )  
 Example vowel hiatus, Turkish language: ⟨ saat ⟩ — { saa̱t } ( ﻿TPA﻿ ) | ⟨ saat ⟩ — [ saˈat ] ( ﻿IPA﻿ )
 
-[﻿](§15.31)The important thing to understand is that hiatuses should always be written as two separate letters, while long vowels should be written as one letter followed by the duration mark. This is because we have two separate vowels here instead of one long vowel, and the IPA also correctly accounts for this, as seen above.
+[﻿](§15.31)The important thing to understand is that the hiatus should always be written as two separate letters, while long vowels should be written as one letter followed by the duration mark. This is because we have two separate vowels here instead of one long vowel, and the IPA also correctly accounts for this, as seen above.
 
 [﻿](§15.32)Phonetic spelling transcription should be written below the orthographic spelling or next to words in phonetic spelling brackets. Example:
 
@@ -1000,7 +1000,7 @@ https://en.wiktionary.org/wiki/%EC%9D%BC%EA%B3%B1
 
 ##### [﻿](§15.89)*Marking Ejective Pronunciations ( ﻿glottalic egressives﻿ ) :* { ◌↑ }, { ◌͜↑ }
 
-[﻿](§15.90)They are marked with the upward arrow written to the right of the letter. They can also be optionally tied with a tie bar. We can use the Unicode upward arrow. IPA writes them as [ pʼ, tʼ, kʼ, sʼ, fʼ ]. They do not have their own specific letters and cannot have them because there are too many of them, so we have to use the regular pulmonic letter plus the upward arrow. I believe it is better than the apostrophe used by the IPA. These markers must never be used with any voiced letter, as ejectives cannot be voiced. Also, they must never be used with any non﻿ - ﻿strictives such as approximants and vowels. They can, however, be used with bilateral approximants, fricatives, affricates, and plosives. For example, these are all invalid { w͜￪ }, { u͜￪ }, { a͜￪ }.
+[﻿](§15.90)They are marked with the upward arrow written to the right of the letter. They can also be optionally tied with a tie bar. We can use the Unicode upward arrow. IPA writes them as [ pʼ, tʼ, kʼ, sʼ, fʼ ]. They do not have their own specific letters and cannot have them because there are too many of them, so we have to use the regular pulmonic letter plus the upward arrow. I believe it is better than the apostrophe used by the IPA. These markers must never be used with any voiced letter, as ejectives cannot be voiced. Also, they must never be used with any non﻿ - ﻿strictives such as approximants and vowels. They can, however, be used with bilateral fricatives, fricatives, affricates, and plosives. For example, these are all invalid { w͜￪ }, { u͜￪ }, { a͜￪ }.
 
 ##### [﻿](§15.91)*Marking Implosive Pronunciation ( ﻿glottalic ingressives﻿ ) :* { ◌↓ }, { ◌͜↓ }
 
@@ -1150,7 +1150,7 @@ trial ( ﻿abbreviation tl.﻿ ) { ◌◌◌⁽ᵗˡ ⁾}
 - [﻿](§18.4)a ﻿/﻿ ɑ — Again, in the IPA, these two variations are considered separate vowels, but not here. These two glyphic variations are just that, glyphic variations. In the TPA, they are the same vowels.
 
 - [﻿](§18.5)ᴇ ﻿/﻿ ɛ — IPA uses the ‘ ɛ ’. But here, we can also use the small capital ‘ ᴇ ’. This is also good for conformity with letters like ‘ ᴁ ’, ‘ ɶ ’, and ‘ ᴀ ’ already there in the TPA. ‘ ᴇ ’ is the preferred letter.
-  
+
 - [﻿](§18.6)ɡ ﻿/﻿ g — Unicode has two separate g's. They are just glyphic variants of each other. The ‘ ﻿g﻿ ’ with the open tail is called a “ script g ” and the other g with a closed tail is called a “ ﻿double﻿ - ﻿storey g﻿ ” or “ ﻿closed﻿ - ﻿loop g﻿ ”. IPA favours the open﻿ - ﻿tail g. But here in the TPA, for our needs and purposes, they represent the same sound, the voiced velar plosive.
 
 - [﻿](§18.7)ȷ ﻿/﻿ j — These both represent the voiced palatal plosive in the TPA. The [ ȷ ] represents the voiced palatal plosive in the IPA, and the [ j ] represents the voiced palatal approximant. The reason for this change is that we use the letter { y } for the voiced palatal approximant in the TPA. I would, however, highly suggest avoiding using the dotted version in the TPA, because it will confuse people who use the IPA.
