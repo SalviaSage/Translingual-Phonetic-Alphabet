@@ -9,10 +9,10 @@ I wanted to create a phonetic alphabet that was more logical, more legible, more
 Thus, the TPA is a complete Unicode phonetic alphabet that is suitable to be used with computers.
 This project is in continuous development and it is mainted by its author.
 
-A "scientific literary work" on the subject of Articulatory Phonetics:
+A "scientific literary work" on the subject of Articulatory Phonetics:  
 https://gist.github.com/SalviaSage/36df3334e0e9c5859c53b9f2482e79cb
 
-The **IPA** also has complete representation in **Unicode**:
+The **IPA** also has complete representation in **Unicode**:  
 https://en.wikipedia.org/wiki/International_Phonetic_Alphabet
 
 **ABOUT:**
