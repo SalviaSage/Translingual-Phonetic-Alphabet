@@ -1,0 +1,41 @@
+﻿;; IME for typing the Translingual Phonetic Alphabet. EXPERIMENTAL and WIP
+
+;; Immediate execute (*) should be used with IMEs.
+;; They have to be case sensitive (C).
+;; There is a bug where space is sent before the characters starting from the tenth entry.
+
+;; VOWELS
+
+*C?OZ‖a	‖MSI‖En‖ᴀ{unrounded rear extra-lax vocoid}¦æ{unrounded centre lax}¦ᴁ{unrounded centre extra-lax}‖a
+*C?OZ‖e	‖MSI‖En‖ᴇ{unrounded front extra-lax}¦ə{unrounded rear near-tense}‖e
+*C?OZ‖i	‖MSI‖En‖ɪ{unrounded front tense vocoid}¦ᵻ{unrounded front near-tense}¦ᴕ{unrounded rear tense}‖i
+*C?OZ‖ɪ	‖MSI‖En‖ɪ{unrounded front tense vocoid}¦ᵻ{unrounded front near-tense}¦ᴕ{unrounded rear tense}‖ɪ
+*C?OZ‖o	‖MSI‖En‖ɔ{rounded rear extra-lax}¦ø{rounded front lax}¦ꬿ{rounded front extra-lax vocoid}¦œ{rounded centre lax}¦ɶ{rounded centre extra-lax}‖o
+*C?OZ‖u	‖MSI‖En‖ʊ{rounded rear near-tense}¦ʉ{rounded front tense}¦ᵿ{rounded front near-tense}¦ɥ{rounded palatal approximant}‖u
+
+;; CONSONANTS
+
+*C?OZ‖b	‖MSI‖En‖ƃ{voiced bilabial fricative}¦ʙ{voiced bilabial trill}¦ʘ{bilabial click}¦ʘ̊{rounded bilabial click}¦ȸ{voiced labiodental plosive}¦¦ƀ{voiced sublabial trill}‖b
+*C?OZ‖c	‖MSI‖En‖ɕ{voiceless postalveolar affricate}¦ç{voiceless palatal fricative}¦ȼ{voiceless palatal affricate}‖c
+*C?OZ‖d	‖MSI‖En‖ᴅ{voiced dental plosive}¦ƌ{voiced dental fricative}¦ð{voiced interdental fricative}¦ᶁ{voiced retroflex plosive}¦ȡ{voiced postalveolar plosive}¦đ{voiced interdental plosive}‖d
+*C?OZ‖f	‖MSI‖En‖ɸ{voiceless bilabial fricative}¦ꜰ{voiceless bilabial trill}¦ᶂ{voiceless supra-labiodental fricative}¦ⱷ{voiceless labiodental affricate}‖f
+*C?OZ‖g	‖MSI‖En‖ɣ{voiced velar fricative}¦ɢ{voiced uvular plosive}¦𝼂{voiced epiglottal plosive}‖g
+*C?OZ‖h	‖MSI‖En‖ħ{voiceless epiglottal fricative}¦ʜ{voiceless epiglottal trill}‖h
+*C?OZ‖j	‖MSI‖En‖ȷ{voiced palatal plosive}¦ɟ{voiced palatal affricate}¦ʄ{bilateral palatal click}¦ǂ{palatal click}‖j
+*C?OZ‖ȷ	‖MSI‖En‖ȷ{voiced palatal plosive}¦ɟ{voiced palatal affricate}¦ʄ{bilateral palatal click}¦ǂ{palatal click}‖ȷ
+*C?OZ‖k	‖MSI‖En‖ʞ{velar click}¦ꝁ{voiceless velar affricate}‖k
+*C?OZ‖l	‖MSI‖En‖ł{voiced velarised alveolar bilateral fricative ( ﻿dark l)}¦ɬ{voiceless alveolar bilateral fricative}¦ʟ{voiced dental bilateral fricative}¦ᶅ{voiced retroflex bilateral fricative}¦λ{voiced palatal bilateral fricative}¦ʎ{voiced palatal bilateral fricative}¦ƛ{voiceless palatal bilateral fricative}¦ɫ{voiced interdental bilateral fricative}¦ȴ{voiced postalveolar bilateral fricative}‖l
+*C?OZ‖m	‖MSI‖En‖ɱ{voiced labiodental nasal}‖m
+*C?OZ‖n	‖MSI‖En‖ɴ{voiced dental nasal}¦ɲ{voiced palatal nasal}¦ŋ{voiced velar nasal}¦ᶇ{voiced retroflex nasal}¦ȵ{voiced postalveolar nasal}¦ꬻ{voiced interdental nasal}¦ꬼ{voiced uvular nasal}‖n
+*C?OZ‖p	‖MSI‖En‖ꝑ{voiceless sublabial trill}¦ȹ{voiceless labiodental plosive}¦ꝓ{voiceless linguolabial trill}‖p
+*C?OZ‖q	‖MSI‖En‖ꞯ{voiceless epiglottal plosive}¦ꝗ{voiceless uvular affricate}¦ꝙ{uvular click}‖q
+*C?OZ‖r	‖MSI‖En‖ɹ{voiced apical-alveolar fricative}¦ɻ{voiced retroflex fricative}¦ɾ{voiced alveolar tap}¦ɿ{voiced retroflex tap}¦𝼖{voiced retroflex tap}¦ʀ{voiced uvular trill}¦ꝶ{voiceless uvular trill}¦ᴙ{unrounded uvular approximant}¦ɍ{voiceless alveolar trill}‖r
+*C?OZ‖s	‖MSI‖En‖ş{voiceless postalveolar fricative}¦ꞩ{voiceless alveolar affricate}¦ſ{voiceless dental fricative}¦ᶊ{voiceless retroflex fricative}¦ʂ{voiceless apical-alveolar fricative}¦ʆ{voiceless retroflex affricate}‖s
+*C?OZ‖t	‖MSI‖En‖ᴛ{voiceless dental plosive}¦þ{voiceless interdental fricative}¦ȶ{voiceless postalveolar plosive}¦ƫ{voiceless retroflex plosive}¦ⱦ{voiceless interdental plosive}‖t
+*C?OZ‖v	‖MSI‖En‖ᶌ{voiced supra-labiodental fricative}¦ꝟ{voiced labiodental affricate}‖v
+*C?OZ‖w	‖MSI‖En‖ɯ{unrounded bilabial approximant}¦ɰ{unrounded velar approximant}¦ɥ{rounded palatal approximant}‖w
+*C?OZ‖x	‖MSI‖En‖ꭓ{voiceless uvular fricative}¦ꝶ{voiceless uvular trill}¦χ{voiceless uvular fricative}‖x
+*C?OZ‖y	‖MSI‖En‖ỿ{voiced palatal fricative}‖y
+*C?OZ‖z	‖MSI‖En‖ʒ{voiced postalveolar fricative}¦ʓ{voiced postalveolar affricate}¦ƶ{voiced alveolar affricate}¦ʑ{voiced retroflex affricate}‖z
+
+*?OZ‖?	‖MSI‖En‖ʔ{glottal stop}¦ʕ{pharyngeal fricative}¦ʢ{epiglottal trill}‖ʔ
