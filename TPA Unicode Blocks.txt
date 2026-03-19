@@ -1,0 +1,23 @@
+Unicode Blocks for the Translingual Phonetic Alphabet (Unicode v17):
+
+Basic Latin (0000 - 007F)
+Latin-1 Supplement (0080 - 00FF)
+Latin Extended-A (0100 - 017F)
+Latin Extended-B (0180 - 024F)
+Latin Extended-C (2C60 - 2C7F)
+Latin Extended-D (A720 - A7FF)
+Latin Extended-E (AB30 - AB6F)
+Latin Extended-F (10780 - 107BF)
+Latin Extended-G (1DF00 - 1DFFF)
+
+IPA Extensions (0250 - 02AF)
+Spacing Modifier Letters (02B0 - 02FF)
+Combining Diacritical Marks (0300 - 036F)
+Phonetic Extensions (1D00 - 1D7F)
+Phonetic Extensions Supplement (1D80 - 1DBF)
+Combining Diacritical Marks Supplement (1DC0 - 1DFF)
+Latin Extended Additional (1E00 - 1EFF)
+General Punctuation (2000 - 206F)
+Arrows (2190 - 21FF)
+Miscellaneous Symbols and Arrows (2B00 - 2BFF)
+Modifier Tone Letters (A700 - A71F)
