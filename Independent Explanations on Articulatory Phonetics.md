@@ -212,10 +212,11 @@ Percussive mechanism
 { ɟ } voiced palatal affricate (U+025F) “latin small letter dotless j with stroke”  
 { ɕ } voiceless postalveolar affricate (U+0255) “latin small letter c with curl”  
 { ʓ } voiced postalveolar affricate (U+0293) “latin small letter ezh with curl”  
-{ ʆ } voiceless retroflex affricate (U+0286) “latin small letter esh with curl”  
-{ ʑ } voiced retroflex affricate (U+0291) “latin small letter z with curl”  
-{ ꞩ } voiceless alveolar affricate (U+A7A9) “latin small letter s with oblique stroke”  
-{ ƶ } voiced alveolar affricate (U+01B6) “latin small letter z with stroke”  
+{ ꞩ } voiceless retroflex affricate (U+A7A9) “latin small letter s with oblique stroke”  
+&nbsp;&nbsp;&nbsp;&nbsp;Alternative letter: { ꟊ } (U+A7CA) “latin small letter s with short stroke overlay”  
+{ ƶ } voiced retroflex affricate (U+01B6) “latin small letter z with stroke”  
+{ 𝼞 } voiceless alveolar affricate (U+1DF1E) “latin small letter s with curl”  
+{ ʑ } voiced alveolar affricate (U+0291) “latin small letter z with curl”  
 { ⱷ } voiceless labiodental affricate (U+2C77) “latin small letter tailless phi”  
 { ꝟ } voiced labiodental affricate (U+A75F) “latin small letter v with diagonal stroke”  
 { ꝑ } voiceless bilabial affricate (U+A751) “latin small letter p with stroke through descender”  
@@ -272,7 +273,8 @@ Examples from the Devanagari alphabet include: ( ﻿क, ख, ग, घ,�
 
 [﻿](§3.18)They are not at all popular sounds, but reportedly Vietnamese has the easier to pronounce frontal implosives { ﻿b↓, d↓﻿ }. They can be written with the downward arrow in the TPA as { ﻿p↓, b↓, t↓, d↓, k↓, g↓﻿ } and in the IPA as [ ﻿p↓, b↓, t↓, d↓, k↓, g↓﻿ ].
 
-[﻿](§3.19){ q↓ } voiceless uvular implosive  
+[﻿](§3.19){ ʖ↓ } voiced glottal implosive  
+{ q↓ } voiceless uvular implosive  
 { ɢ↓ } voiced uvular implosive  
 { k↓ } voiceless velar implosive  
 { g↓ } voiced velar implosive  
@@ -451,14 +453,16 @@ IPA Examples: [ ﻿m, n, ŋ, ɲ, ɳ, ɴ﻿ ]
 [﻿](§3.56){ **ꟛ** } voiced palatal bilateral fricative (U+A7DB) “latin small letter lambda”⁽²⁾  
 &nbsp;&nbsp;&nbsp;&nbsp;Alternative letter: { λ } voiced palatal bilateral fricative (U+03BB) “greek small letter lamda”  
 { ƛ } voiceless palatal bilateral fricative (U+019B) “latin small letter lambda with stroke”  
-{ ȴ } voiced postalveolar bilateral fricative (U+0234) “latin small letter l with curl”    
+{ ʎ } voiced postalveolar bilateral fricative (U+028E) “latin small letter turned y”
+{ 𝼆 } voiceless postalveolar bilateral fricative (U+1DF06) “latin small letter turned y with belt”    
 { ᶅ } voiced retroflex bilateral fricative (U+1D85) “latin small letter l with palatal hook”  
 { 𝼓 } voiceless retroflex bilateral fricative (U+1DF13) “latin small letter l with belt and palatal hook”  
 { l } voiced alveolar bilateral fricative (U+006C) “latin small letter l”  
 &nbsp;&nbsp;&nbsp;&nbsp;{ ł } voiced velarised alveolar bilateral fricative (dark l) (U+0142) “latin small letter l with stroke”  
 { ɬ } voiceless alveolar bilateral fricative (U+026C) “latin small letter l with belt”  
 { ʟ } voiced dental bilateral fricative (U+029F) “latin letter small capital l”  
-{ ᴌ } voiceless dental bilateral fricative (U+1D0C) “latin letter small capital l with stroke”  
+{ 𝼄 } voiceless dental bilateral fricative (U+1DF04) “latin letter small capital l with belt”
+&nbsp;&nbsp;&nbsp;&nbsp;Alternative letter: { ᴌ } (U+1D0C) “latin letter small capital l with stroke”  
 { ɫ } voiced interdental bilateral fricative (U+026B) “latin small letter l with middle tilde”  
 { ꬸ } voiceless interdental bilateral fricative (U+AB38) “latin small letter l with double middle tilde”
 
@@ -486,8 +490,8 @@ IPA Examples: [ ﻿m, n, ŋ, ɲ, ɳ, ɴ﻿ ]
 { ɬ↑ } ejective alveolar bilateral fricative  
 { ɍ↑ } ejective alveolar trill  
 { ɕ↑ } ejective postalveolar affricate  
-{ ʆ↑ } ejective retroflex affricate  
-{ ꞩ↑ } ejective alveolar affricate  
+{ ꞩ↑ } ejective retroflex affricate  
+{ 𝼞↑ } ejective alveolar affricate  
 { x↑ } ejective velar fricative  
 { ş↑ } ejective postalveolar fricative  
 { s↑ } ejective alveolar fricative
