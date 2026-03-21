@@ -3,7 +3,7 @@
 ##### A Criticism of the International Phonetic Alphabet
 
 Typed by: Mister Özgün Öztekin ( ﻿SalviaSage﻿ )  
-Date of last revision: 2026‑03‑19   
+Date of last revision: 2026‑03‑21   
 Word count: ≈26,000  
 Paragraph count: 441  
 Chapter count: 20
@@ -32,8 +32,11 @@ Signed;
 &nbsp;&nbsp;&nbsp;&nbsp;𝓞. 𝓞𝔃𝓽𝓮𝓴𝓲𝓷
 
 ------
+
 [TOC]
+
 ------
+
 #### FOREWORD:
 
 [﻿](§0.1)Articulatory phonetics is the scientific subject which explains how different speech sounds are produced by humans. It concerns itself with the explanations of such sounds and their categorisations.
@@ -229,9 +232,9 @@ Examples from the Devanagari alphabet include: ( ﻿क, ख, ग, घ,�
 [﻿](§3.11)As you can see, there are many more plosive letters in the Devanagari alphabet. This is because it has some letters for additional plosives that are not found in Western languages, as well as specific letters for aspirated plosives. Such as ‘ ﻿भ﻿ ’ which is correctly pronounced as { ﻿b͜ha﻿ } or ‘ ﻿घ﻿ ’ which is { ﻿g͜ha﻿ }.
 
 [﻿](§3.12){ ƾ } voiceless glottal plosive (U+01BE) “latin letter inverted glottal stop with stroke” (not in IPA) ⁽¹⁾  
-{ ꞯ } voiceless epiglottal plosive ( ﻿U+A7AF﻿ ) “latin letter small capital q”  
+{ ꞯ } voiceless pharyngeal plosive ( ﻿U+A7AF﻿ ) “latin letter small capital q”  
 &nbsp;&nbsp;&nbsp;&nbsp;( [ ʡ ] in IPA, [ ꞯ ] in extIPA, https://en.wiktionary.org/wiki/%EA%9E%AF ⁽²⁾  
-{ 𝼂 } voiced epiglottal plosive ( ﻿U+1DF02﻿ ) “latin letter small capital turned g”  
+{ 𝼂 } voiced pharyngeal plosive ( ﻿U+1DF02﻿ ) “latin letter small capital turned g”  
 &nbsp;&nbsp;&nbsp;&nbsp;( [ ʡ ] in IPA, [ 𝼂 ] in extIPA, https://en.wiktionary.org/wiki/%F0%9D%BC%82  
 { q } voiceless uvular plosive (U+0071) “latin small letter q”  
 { ɢ } voiced uvular plosive (U+0262) “latin letter small capital g”  
@@ -250,6 +253,8 @@ Examples from the Devanagari alphabet include: ( ﻿क, ख, ग, घ,�
 { ᴅ } voiced dental plosive (U+1D05) “latin letter small capital d” ( ﻿[ ﻿d̪﻿ ] in IPA﻿ )  
 { ⱦ } voiceless interdental plosive (U+2C66) “latin small letter t with diagonal stroke”  
 { đ } voiced interdental plosive (U+0111) “latin small letter d with stroke”  
+{ ᵱ } voiceless linguolabial plosive (U+1D71) “latin small letter p with middle tilde”  
+{ ᵬ } voiced linguolabial plosive (U+1D6C) “latin small letter b with middle tilde”  
 { ȹ } voiceless labiodental plosive (U+0239) “latin small letter qp digraph”  
 { ȸ } voiced labiodental plosive (U+0238) “latin small letter db digraph”  
 { p } voiceless bilabial plosive (U+0070) “latin small letter p”  
@@ -381,7 +386,8 @@ IPA Examples: [ ﻿m, n, ŋ, ɲ, ɳ, ɴ﻿ ]
 { ꭊ } voiceless palatal trill (U+AB4A) “latin small letter double r with crossed-tail”  
 { ꭉ } voiced palatal trill (U+AB49) “latin small letter r with crossed-tail”  
 { ɽ } voiceless postalveolar trill (U+027D) “latin small letter r with tail”  
-{ ɼ } voiced postalveolar trill (U+027C) “latin small letter r with long leg” ( ﻿[ ﻿r̝﻿ ] / [ ﻿r̻﻿ ] voiced alveolar fricative trill in IPA﻿ )  
+{ ɼ } voiced postalveolar trill (U+027C) “latin small letter r with long leg”  
+&nbsp;&nbsp;&nbsp;&nbsp;( ﻿[ ﻿r̝﻿ ] / [ ﻿r̻﻿ ] voiced alveolar fricative trill in IPA﻿ )  
 { ɍ } voiceless alveolar trill (U+024D) “latin small letter r with stroke”  
 { r } voiced alveolar trill (U+0072) “latin small letter r”  
 { ꝓ } voiceless linguolabial trill (U+A753) “latin small letter p with flourish”  
@@ -503,7 +509,7 @@ IPA Examples: [ ﻿m, n, ŋ, ɲ, ɳ, ɴ﻿ ]
 
 ##### [﻿](§3.69)*( ﻿14﻿ ) Vowels ( ﻿vocoids﻿ ):*
 
-[﻿](§3.70)Vocoids are the point at which a constriction is no longer made in the vocal tract and the sound simply exits out of the vocal tract ( ﻿non‑strictives﻿ ). Vocoids are very complex, as many different factors affect them. Some of these factors are the position of the jaw, the lowering of the jaw, the position of the tongue, the rounding of the lips, and the direction of the airflow. It is possible to lower the velum to cause the air to exit out of the nasal cavity; these are called nasal vowels or nasalised vowels and this phenomenon is called nasalisation. It is observed in multiple languages, such as the French language. English does not have vowel nasalisation. It is also possible to make an epiglottal restriction during the pronunciation of vowels, as is observed in the Arabic language. This is, however, a harder pronunciation to employ than vowel nasalization, but there is plenty of evidence that this is possible, and I have seen Arabic speakers employ such pronunciations.
+[﻿](§3.70)Vocoids are the point at which a constriction is no longer made in the vocal tract and the sound simply exits out of the vocal tract ( ﻿non‑strictives﻿ ). Vocoids are very complex, as many different factors affect them. Some of these factors are the position of the jaw, the lowering of the jaw, the position of the tongue, the rounding of the lips, and the direction of the airflow. It is possible to lower the velum to cause the air to exit out of the nasal cavity; these are called nasal vowels or nasalised vowels and this phenomenon is called nasalisation. It is observed in multiple languages, such as the French language. English does not have vowel nasalisation. It is also possible to make a pharyngeal restriction during the pronunciation of vowels, as is observed in the Arabic language. This is, however, a harder pronunciation to employ than vowel nasalization, but there is plenty of evidence that this is possible, and I have seen Arabic speakers employ such pronunciations.
 
 [﻿](§3.71)Making explanations on vowels and devising a vowel chart was difficult. I had to find a balance between the positions of the jaw and the positions of the tongue. However, I am satisfied with where I have brought the work. I am happy that the TPA has fewer vowel letters than the IPA. Mine is at about twenty vowels, while the IPA is at least thirty. I think that is too many vowels. I object to the seven levels of vowel laxity in the IPA. The TPA has five levels. I cut the last two laxity levels in the IPA with the logic that the jaw is not lowered down that much to pronounce vowels. Although, anatomically, the jaw can technically be lowered down further to those two levels, that just isn't done in speech.
 
@@ -634,17 +640,17 @@ I do not agree with the following statement that we can find on this webpage:
 [﻿](§7.1)Tones are something that we come across in music. You may be familiar with the musical scale do‑re‑mi‑fa‑so‑la‑si‑do. This is an eight‑level scale, in which we have eight tones. The same concept is found in phonetics and pronunciation, especially with regard to the pronunciation of vowels. Here, we call it pitch, and we have three fundamental levels; high, mid, and low. In the International Phonetic Alphabet, there are five levels; extra‑high, high, mid, low, and extra‑low. In the Translingual Phonetic Alphabet, there are three main levels: high, mid, and low. High can be split into extra‑high and high, and low can be split into extra‑low and low for a more precise five‑level system. This is the same system as in the IPA. There are also what are called “ ﻿contour tones﻿ ”. In this case, the tones start from one tone and go towards another tone. Contour tones are further defined as “ ﻿double contour tones﻿ ” where we have a shift from one tone to another tone and “ ﻿triple contour tones﻿ ”, where it is the same thing but with three tones instead. This gives us three flat‑level tones, six double‑contour tones, and ten triple‑contour tones.
 
 | [﻿](§7.2)FLAT TONES                                           | DOUBLE CONTOUR TONES | TRIPLE CONTOUR TONES   |
-| :----------------------------------------------------------------- | :------------------- | :--------------------- |
-| LOW { ﻿◌˩ / ꜜ◌﻿ }                                   | LOW‑MID { ﻿◌᷇ / ◌˩˧﻿ }  | LOW‑MID‑LOW { ﻿◌˩˧˩﻿ }   |
-| MID { ﻿◌ / ◌˧﻿ }                                    | LOW‑HIGH { ﻿◌́ / ◌˩˥﻿ } | LOW‑HIGH‑LOW { ﻿◌˩˥˩﻿ }  |
-| HIGH { ﻿◌˥ / ꜛ◌﻿ }                                  | MID‑LOW { ﻿◌᷆ / ◌˧˩﻿ }  | LOW‑HIGH‑MID { ﻿◌˩˥˧﻿ }  |
-|                                                                    | MID‑HIGH { ﻿◌᷄ / ◌˧˥﻿ } | MID‑LOW‑MID { ﻿◌˧˩˧﻿ }   |
-|                                                                    | HIGH‑LOW { ﻿◌̀ / ◌˥˩﻿ } | MID‑LOW‑HIGH { ﻿◌˧˩˥﻿ }  |
-| { ﻿ꜛ◌, ꜜ◌﻿ }                                        | HIGH‑MID { ﻿◌᷅ / ◌˥˧﻿ } | MID‑HIGH‑LOW { ﻿◌˧˥˩﻿ }  |
-| { ﻿◌᷇, ◌́, ◌᷆, ◌᷄, ◌̀, ◌᷅﻿ }                             |                                       | MID‑HIGH‑MID { ﻿◌˧˥˧﻿ }  |
-| { ﻿◌˥, ◌˧, ◌˩﻿ }                                    |                                       | HIGH‑LOW‑MID { ﻿◌˥˩˧﻿ }  |
-| { ﻿◌˩˧, ◌˩˥, ◌˧˩, ◌˧˥, ◌˥˩, ◌˥˧﻿ }                         |                                       | HIGH‑LOW‑HIGH { ﻿◌˥˩˥﻿ } |
-| { ﻿◌˩˧˩, ◌˩˥˩, ◌˩˥˧, ◌˧˩˧, ◌˧˩˥, ◌˧˥˩, ◌˧˥˧, ◌˥˩˧, ◌˥˩˥, ◌˥˧˥﻿ }        |                                       | HIGH‑MID‑HIGH { ﻿◌˥˧˥﻿ } |
+| :----------------------------------------------------------- | :------------------- | :--------------------- |
+| LOW { ﻿◌˩ / ꜜ◌﻿ }                                              | LOW‑MID { ﻿◌᷇ / ◌˩˧﻿ }  | LOW‑MID‑LOW { ﻿◌˩˧˩﻿ }   |
+| MID { ﻿◌ / ◌˧﻿ }                                               | LOW‑HIGH { ﻿◌́ / ◌˩˥﻿ } | LOW‑HIGH‑LOW { ﻿◌˩˥˩﻿ }  |
+| HIGH { ﻿◌˥ / ꜛ◌﻿ }                                             | MID‑LOW { ﻿◌᷆ / ◌˧˩﻿ }  | LOW‑HIGH‑MID { ﻿◌˩˥˧﻿ }  |
+|                                                              | MID‑HIGH { ﻿◌᷄ / ◌˧˥﻿ } | MID‑LOW‑MID { ﻿◌˧˩˧﻿ }   |
+|                                                              | HIGH‑LOW { ﻿◌̀ / ◌˥˩﻿ } | MID‑LOW‑HIGH { ﻿◌˧˩˥﻿ }  |
+| { ﻿ꜛ◌, ꜜ◌﻿ }                                                   | HIGH‑MID { ﻿◌᷅ / ◌˥˧﻿ } | MID‑HIGH‑LOW { ﻿◌˧˥˩﻿ }  |
+| { ﻿◌᷇, ◌́, ◌᷆, ◌᷄, ◌̀, ◌᷅﻿ }                                         |                      | MID‑HIGH‑MID { ﻿◌˧˥˧﻿ }  |
+| { ﻿◌˥, ◌˧, ◌˩﻿ }                                               |                      | HIGH‑LOW‑MID { ﻿◌˥˩˧﻿ }  |
+| { ﻿◌˩˧, ◌˩˥, ◌˧˩, ◌˧˥, ◌˥˩, ◌˥˧﻿ }                             |                      | HIGH‑LOW‑HIGH { ﻿◌˥˩˥﻿ } |
+| { ﻿◌˩˧˩, ◌˩˥˩, ◌˩˥˧, ◌˧˩˧, ◌˧˩˥, ◌˧˥˩, ◌˧˥˧, ◌˥˩˧, ◌˥˩˥, ◌˥˧˥﻿ } |                      | HIGH‑MID‑HIGH { ﻿◌˥˧˥﻿ } |
 
 [﻿](§7.3)You can also think of them as diphthongs, but instead, it isn't the positions of the lips, the jaw, or the tongue that move; it is the pitch that moves. I believe that phenomenon itself happens at the vocal cords and is not controlled elsewhere. Unfortunately, I cannot give you a precise explanation as to what happens there in this document, as that is something I do not know. But I believe that concept is already explained in the study of music, and it is probably something similar to that. I do believe, however, that I have correctly identified the three tones that are utilised in speech. I believe that this scale fits all languages and that we do not need a higher level of acuity than five levels. This concept is particularly important in East Asian languages such as Thai, Vietnamese, Mandarin, and Cantonese.
 
@@ -786,7 +792,7 @@ These consonants [ ﻿ɹ], ﻿ [ɻ] are misclassified as approximants. The c
 
 [﻿](§13.2)Eventually, I came up with a phonetic alphabet and a phonetic notation system that does not take accents into account and yet, is incredibly accurate with regard to the correct pronunciations of world languages.
 
-[﻿](§13.3)In this paragraph, I want to try to prove my point. If I pronounce some Arabic words by substituting an epiglottal fricative { ﻿ħ﻿ } instead of a glottal fricative { ﻿h﻿ }, immediately I sound more Arabic. If I substitute an { ﻿æ﻿ } where an { ﻿a﻿ } or an { ﻿e﻿ } would be, again I sound more Arabic. If I substitute a { ﻿q﻿ } where a { ﻿k﻿ } would be, again, I sound more Arabic. This has nothing to do with my native language. It just so happens that the Arabic language has and uses those sounds. Similarly, when saying Russian words, if I pronounce the alveolar approximant { ﻿ɹ﻿ } as an alveolar trill { ﻿r﻿ }, I sound more Russian. If I pronounce my vowels a little more tensely in French, I sound more French. If I pronounce my alveolar plosives as retroflex plosives by curling the tip of my tongue towards the palate, I sound like someone from India. It is only the slight variations in pronunciations that give rise to those accents. For example, in “ ﻿Southern American English﻿ ”, you may have heard of this accent, where all of the vowels are pronounced more centrally. This is not something that can be marked in phonetics, and neither should it be. How can you mark every little, small difference? And so, you need just one system that works everywhere, and I strongly believe I created that system.
+[﻿](§13.3)In this paragraph, I want to try to prove my point. If I pronounce some Arabic words by substituting a pharyngeal fricative { ﻿ħ﻿ } instead of a glottal fricative { ﻿h﻿ }, immediately I sound more Arabic. If I substitute an { ﻿æ﻿ } where an { ﻿a﻿ } or an { ﻿e﻿ } would be, again I sound more Arabic. If I substitute a { ﻿q﻿ } where a { ﻿k﻿ } would be, again, I sound more Arabic. This has nothing to do with my native language. It just so happens that the Arabic language has and uses those sounds. Similarly, when saying Russian words, if I pronounce the alveolar approximant { ﻿ɹ﻿ } as an alveolar trill { ﻿r﻿ }, I sound more Russian. If I pronounce my vowels a little more tensely in French, I sound more French. If I pronounce my alveolar plosives as retroflex plosives by curling the tip of my tongue towards the palate, I sound like someone from India. It is only the slight variations in pronunciations that give rise to those accents. For example, in “ ﻿Southern American English﻿ ”, you may have heard of this accent, where all of the vowels are pronounced more centrally. This is not something that can be marked in phonetics, and neither should it be. How can you mark every little, small difference? And so, you need just one system that works everywhere, and I strongly believe I created that system.
 
 #### CHAPTER FOURTEEN ( ﻿ⅩⅣ﻿ ): Introduction to the Translingual Phonetic Alphabet ( ﻿TPA﻿ )
 
