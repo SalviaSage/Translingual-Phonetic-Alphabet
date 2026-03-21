@@ -1,0 +1,257 @@
+TPA Font Test;
+
+
+	(1) Affricates (stop-strictives):
+{ ꝗ } voiceless uvular affricate			(U+A757) “latin small letter q with stroke through descender”
+{ ʛ } voiced uvular affricate			(U+029B) “latin letter small capital g with hook”
+{ ꝁ } voiceless velar affricate			(U+A741) “latin small letter k with stroke”
+{ ǥ } voiced velar affricate			(U+01E5) “latin small letter g with stroke”
+{ ȼ } voiceless palatal affricate			(U+023C) “latin small letter c with stroke”
+{ ɟ } voiced palatal affricate			(U+025F) “latin small letter dotless j with stroke”
+{ ɕ } voiceless postalveolar affricate	(U+0255) “latin small letter c with curl”
+{ ʓ } voiced postalveolar affricate		(U+0293) “latin small letter ezh with curl”
+{ ꞩ} voiceless retroflex affricate		(U+A7A9) “latin small letter s with oblique stroke”
+{ ƶ } voiced retroflex affricate			(U+01B6) “latin small letter z with stroke”
+{ 𝼞 } voiceless alveolar affricate		(U+1DF1E) “latin small letter s with curl”
+{ ʑ } voiced alveolar affricate			(U+0291) “latin small letter z with curl”
+{ ⱷ } voiceless labiodental affricate		(U+2C77) “latin small letter tailless phi”
+{ ꝟ } voiced labiodental affricate		(U+A75F) “latin small letter v with diagonal stroke”
+{ ꝑ } voiceless bilabial affricate		(U+A751) “latin small letter p with stroke through descender”
+{ ƀ } voiced bilabial affricate			(U+0180) “latin small letter b with stroke”
+
+
+	(2) Plosives (stops):
+{ ƾ } voiceless glottal plosive		(U+01BE) “latin letter inverted glottal stop with stroke” (not in IPA)
+{ ꞯ } voiceless pharyngeal plosive	(U+A7AF) “latin letter small capital q” ([ʡ] in IPA, [ꞯ] in extIPA)
+{ 𝼂 } voiced pharyngeal plosive	(U+1DF02) “latin letter small capital turned g” ([ʡ] in IPA, [𝼂] in extIPA)
+{ q } voiceless uvular plosive		(U+0071) “latin small letter q”
+{ ɢ } voiced uvular plosive		(U+0262) “latin letter small capital g”
+{ k } voiceless velar plosive		(U+006B) “latin small letter k”
+{ g } voiced velar plosive			(U+0067) “latin small letter g”
+	Alternative letter: { ɡ }		(U+0261) “latin small letter script g”
+{ c } voiceless palatal plosive		(U+0063) “latin small letter c”
+{ ȷ } voiced palatal plosive		(U+0237) “latin small letter dotless j”
+{ ȶ } voiceless postalveolar plosive	(U+0236) “latin small letter t with curl”
+{ ȡ } voiced postalveolar plosive	(U+0221) “latin small letter d with curl”
+{ ƫ } voiceless retroflex plosive		(U+01AB) “latin small letter t with palatal hook” ([ʈ] in IPA)
+{ ᶁ } voiced retroflex plosive		(U+1D81) “latin small letter d with palatal hook” ([ɖ] in IPA)
+{ t } voiceless alveolar plosive		(U+0074) “latin small letter t”
+{ d } voiced alveolar plosive		(U+0064) “latin small letter d”
+{ ᴛ } voiceless dental plosive		(U+1D1B) “latin letter small capital t” ([t̪] in IPA)
+{ ᴅ } voiced dental plosive		(U+1D05) “latin letter small capital d” ([d̪] in IPA)
+{ ⱦ } voiceless interdental plosive	(U+2C66) “latin small letter t with diagonal stroke”
+{ đ } voiced interdental plosive	(U+0111) “latin small letter d with stroke”
+{ ᵱ } voiceless linguolabial plosive	(U+1D71) “latin small letter p with middle tilde”
+{ ᵬ } voiced linguolabial plosive	(U+1D6C) “latin small letter b with middle tilde”
+{ ȹ } voiceless labiodental plosive	(U+0239) “latin small letter qp digraph”
+{ ȸ } voiced labiodental plosive	(U+0238) “latin small letter db digraph”
+{ p } voiceless bilabial plosive		(U+0070) “latin small letter p”
+{ b } voiced bilabial plosive		(U+0062) “latin small letter b”
+
+
+	(3) Implosives (glottalic ingressives):
+{ q↓ } voiceless uvular implosive
+{ ɢ↓ } voiced uvular implosive
+{ k↓ } voiceless velar implosive
+{ g↓ } voiced velar implosive
+{ c↓ } voiceless palatal implosive
+{ ȷ↓ } voiced palatal implosive
+{ ȶ↓ } voiceless postalveolar implosive
+{ ȡ↓ } voiced postalveolar implosive
+{ ƫ↓ } voiceless retroflex implosive
+{ ᶁ↓ } voiced retroflex implosive
+{ t↓ } voiceless alveolar implosive
+{ d↓ } voiced alveolar implosive
+{ ᴛ↓ } voiceless dental implosive
+{ ᴅ↓ } voiced dental implosive
+{ ⱦ↓ } voiceless interdental implosive
+{ đ↓ } voiced interdental implosive
+{ ȹ↓ } voiceless labiodental implosive
+{ ȸ↓ } voiced labiodental implosive
+{ p↓ } voiceless bilabial implosive
+{ b↓ } voiced bilabial implosive
+
+
+	(4) Taps (flaps):
+{ ɿ } voiced retroflex tap		(U+027F) “latin small letter reversed r with fishhook”
+	Alternative letter: { 𝼖 }	(U+1DF16) “latin small letter r with fishhook and palatal hook”
+{ ɾ } voiced alveolar tap		(U+027E) “latin small letter r with fishhook”
+
+
+	(5) Percussives:
+{ ʔ / ɂ / ◌ˀ } glottal stop		(U+0294 / U+0242 / U+02C0) “latin letter glottal stop”
+{ ꭅ } lingual percussive		(U+AB45) “latin small letter stirrup r”
+{ ʭ } bidental percussive		(U+02AD) “latin letter bidental percussive”
+{ ʬ } bilabial percussive		(U+02AC) “latin letter bilabial percussive”
+
+
+	(6) Nasals (nasal obstruents / nasal continuants):
+{ ꬼ } voiced uvular nasal obstruent			(U+AB3C) “latin small letter eng with crossed-tail” ([ɴ] in IPA)
+{ ŋ } voiced velar nasal obstruent			(U+014B) “latin small letter eng”
+{ ɲ } voiced palatal nasal obstruent			(U+0272) “latin small letter n with left hook”
+{ ȵ } voiced postalveolar nasal obstruent	(U+0235) “latin small letter n with curl”
+{ ᶇ } voiced retroflex nasal obstruent		(U+1D87) “latin small letter n with palatal hook” ([ɳ] in IPA)
+{ n } voiced alveolar nasal obstruent		(U+006E) “latin small letter n”
+{ ɴ } voiced dental nasal obstruent			(U+0274) “latin letter small capital n” ([n̪] in IPA)
+{ ꬻ } voiced interdental nasal obstruent		(U+AB3B) “latin small letter n with crossed-tail”
+{ ɱ } voiced labiodental nasal obstruent		(U+0271) “latin small letter m with hook”
+{ m } voiced bilabial nasal obstruent		(U+006D) “latin small letter m”
+
+
+	(7) Velarics (lingual egressives):
+{ ŧ } alveolar velaric		(U+0167) “latin small letter t with stroke”
+{ ꞙ } labiodental velaric	(U+A799) “latin small letter f with stroke”
+{ ᵽ } bilabial velaric		(U+1D7D) “latin small letter p with stroke”
+
+
+	(8) Clicks (lingual ingressives):
+{ ꝙ } uvular click			(U+A759) “latin small letter q with diagonal stroke”
+{ ʞ } velar click				(U+029E) “latin small letter turned k”
+{ ǂ } palatal click			(U+01C2) “latin letter alveolar click”
+{ ʄ } bilateral palatal click		(U+0284) “latin small letter dotless j with stroke and hook”
+{ ʇ } retroflex click			(U+0287) “latin small letter turned t”
+{ ꭋ } alveolar click			(U+AB4B) “latin small letter script r”
+{ ꭌ } dental click			(U+AB4C) “latin small letter script r with ring”
+{ ꜭ } linguolabial click		(U+A72D) “latin small letter cuatrillo”
+{ ꝝ } linguosublabial click		(U+A75D) “latin small letter rum rotunda”
+{ ᵮ } labiodental click		(U+1D6E) “latin small letter f with middle tilde”
+{ ʘ } bilabial click			(U+0298) “latin letter bilabial click”
+	{ ʘ̊ } rounded bilabial click / { ʘ̊̾ } fricated rounded bilabial click
+
+
+	(9) Trills (rolls):
+{ ʜ } voiceless epiglottal trill	(U+029C) “latin letter small capital h”
+{ ʢ } voiced epiglottal trill		(U+02A2) “latin letter reversed glottal stop with stroke”
+{ ꝶ } voiceless uvular trill		(U+A776) “latin letter small capital rum” ([ʀ̥] in IPA)
+{ ʀ } voiced uvular trill		(U+0280) “latin letter small capital r”
+{ ꭊ } voiceless palatal trill		(U+AB4A) “latin small letter double r with crossed-tail”
+{ ꭉ } voiced palatal trill		(U+AB49) “latin small letter r with crossed-tail”
+{ ɽ } voiceless postalveolar trill	(U+027D) “latin small letter r with tail”
+{ ɼ } voiced postalveolar trill	(U+027C) “latin small letter r with long leg”
+	([r̝]/[r̻] voiced alveolar fricative trill in IPA)
+{ ɍ } voiceless alveolar trill	(U+024D) “latin small letter r with stroke”
+{ r } voiced alveolar trill		(U+0072) “latin small letter r”
+{ ꝓ } voiceless linguolabial trill	(U+A753) “latin small letter p with flourish”
+{ ꞗ } voiced linguolabial trill	(U+A797) “latin small letter b with flourish” ([r̼] in IPA)
+{ ꝑ } voiceless sublabial trill	(U+A751) “latin small letter p with stroke through descender”
+{ ƀ } voiced sublabial trill		(U+0180) “latin small letter b with stroke”
+{ ꜰ } voiceless bilabial trill		(U+A730) “latin letter small capital f” ([ʙ̥] in IPA)
+{ ʙ } voiced bilabial trill		(U+0299) “latin letter small capital b”
+
+
+	(10) Fricatives (sibilants):
+{ h } voiceless glottal fricative				(U+0068) “latin small letter h”
+{ ħ } voiceless pharyngeal fricative			(U+0127) “latin small letter h with stroke”
+{ ʕ } voiced pharyngeal fricative				(U+0295) “latin letter pharyngeal voiced fricative”
+{ χ } voiceless uvular fricative				(U+03C7) “greek small letter chi”
+{ ʁ } voiced uvular fricative				(U+0281) “latin letter small capital inverted r”
+{ x } voiceless velar fricative				(U+0078) “latin small letter x”
+{ ɣ } voiced velar fricative				(U+0263) “latin small letter gamma”
+{ ç } voiceless palatal fricative				(U+00E7) “latin small letter c with cedilla”
+{ ỿ } voiced palatal fricative				(U+1EFF) “latin small letter y with loop” ([ʝ] in IPA)
+{ ş } voiceless postalveolar fricative			(U+015F) “latin small letter s with cedilla” ([ʃ] in IPA)
+{ ʒ } voiced postalveolar fricative			(U+0292) “latin small letter ezh”
+{ ᶊ } voiceless retroflex fricative			(U+1D8A) “latin small letter s with palatal hook”
+{ ɻ } voiced retroflex fricative				(U+027B) “latin small letter turned r with hook”
+{ s } voiceless laminal-alveolar fricative		(U+0073) “latin small letter s”
+{ z } voiced laminal-alveolar fricative		(U+007A) “latin small letter z”
+{ ʂ } voiceless apical-alveolar fricative		(U+0282) “latin small letter s with hook”
+{ ɹ } voiced apical-alveolar fricative			(U+0279) “latin small letter turned r”
+{ ſ } voiceless dental fricative				(U+017F) “latin small letter long s”
+{ ƌ } voiced dental fricative				(U+018C) “latin small letter d with topbar”
+{ þ } voiceless interdental fricative			(U+03B8) “latin small letter thorn”
+	Alternative letter: { θ }				(U+00FE) “greek small letter theta”
+{ ð } voiced interdental fricative			(U+00F0) “latin small letter eth”
+{ ᶂ } voiceless supra-labiodental fricative	(U+1D82) “latin small letter f with palatal hook”
+{ ᶌ } voiced supra-labiodental fricative		(U+1D8C) “latin small letter v with palatal hook”
+{ f } voiceless sub-labiodental fricative		(U+0066) “latin small letter f”
+{ v } voiced sub-labiodental fricative		(U+0076) “latin small letter v”
+{ ɸ } voiceless bilabial fricative				(U+0278) “latin small letter phi”
+{ ƃ } voiced bilabial fricative				(U+0183) “latin small letter b with topbar”
+	Alternative letter: { ꞵ }				(U+A7B5) “latin small letter beta”
+	Alternative letter: { β }				(U+03B2) “greek small letter beta”
+
+
+	(11) Bilateral Fricatives (lateral approximants):
+{ ꟛ } voiced palatal bilateral fricative (U+A7DB) “latin small letter lambda”
+	Alternative letter: { λ } voiced palatal bilateral fricative (U+03BB) “greek small letter lamda”
+{ ƛ } voiceless palatal bilateral fricative (U+019B) “latin small letter lambda with stroke”
+{ ʎ } voiced postalveolar bilateral fricative (U+028E) “latin small letter turned y”
+{ 𝼆 } voiceless postalveolar bilateral fricative (U+1DF06) “latin small letter turned y with belt”
+{ ᶅ } voiced retroflex bilateral fricative (U+1D85) “latin small letter l with palatal hook”
+{ 𝼓 } voiceless retroflex bilateral fricative (U+1DF13) “latin small letter l with belt and palatal hook”
+{ l } voiced alveolar bilateral fricative (U+006C) “latin small letter l”
+	{ ł } voiced velarised alveolar bilateral fricative (dark l) (U+0142) “latin small letter l with stroke”
+{ ɬ } voiceless alveolar bilateral fricative (U+026C) “latin small letter l with belt”
+{ ʟ } voiced dental bilateral fricative (U+029F) “latin letter small capital l”
+{ 𝼄 } voiceless dental bilateral fricative (U+1DF04) “latin letter small capital l with belt”
+	Alternative Letter: { ᴌ } (U+1D0C) “latin letter small capital l with stroke”
+{ ɫ } voiced interdental bilateral fricative (U+026B) “latin small letter l with middle tilde”
+{ ꬸ } voiceless interdental bilateral fricative (U+AB38) “latin small letter l with double middle tilde”
+
+
+	(12) Ejectives (glottalic egressives):
+{ q↑ } ejective uvular plosive
+{ k↑ } ejective velar plosive
+{ c↑ } ejective palatal plosive
+{ ȶ↑ } ejective postalveolar plosive
+{ ƫ↑ } ejective retroflex plosive
+{ t↑ } ejective alveolar plosive
+{ ⱦ↑ } ejective interdental plosive
+{ ȹ↑ } ejective labiodental plosive
+{ p↑ } ejective bilabial plosive
+{ ɬ↑ } ejective alveolar bilateral approximant
+{ ɍ↑ } ejective alveolar trill
+{ ɕ↑ } ejective postalveolar affricate
+{ ꞩ↑ } ejective retroflex affricate
+{ 𝼞↑ } ejective alveolar affricate
+{ x↑ } ejective velar fricative
+{ ş↑ } ejective postalveolar fricative
+{ s↑ } ejective alveolar fricative
+
+
+	(13) Approximants (semi-vowels):
+{ ᴙ } unrounded voiced uvular approximant			(U+1D19) “latin letter small capital reversed r”
+{ ɰ } unrounded voiced velar approximant			(U+0270) “latin small letter turned m with long leg”
+{ y } unrounded voiced palatal approximant			(U+0079) “latin small letter y” ([j] in IPA)
+{ ɥ } rounded voiced palatal approximant			(U+0265) “latin small letter turned h”
+{ ɯ } unrounded voiced bilabial approximant			(U+026F) “latin small letter turned m” ([β̞] in IPA)
+{ w } rounded voiced bilabial approximant			(U+0077) “latin small letter w”
+
+
+	(14) Vowels (vocoids):
+|  ɰ  |  w  |       | 	|   y  |  ɥ  	|
+|  ᴕ  	|  u  	| 	|     	|   ɪ   |   ʉ  |
+|  ə  	|  ʊ  	|     	|     	|  ᵻ  	|  ᵿ  	|
+|  a  	|  o  	|  æ 	|  œ	|  e  	|  ø  	|
+|  ᴀ  	|  ɔ  	|  ᴁ 	|  ɶ 	|  ᴇ  	|  ꬿ  	|
+
+{ ɰ } unrounded rear extra-tense vocoid	(U+0270) “latin small letter turned m with long leg”
+{ w } rounded rear extra-tense vocoid		(U+0077) “latin small letter w”
+{ y } unrounded front extra-tense vocoid		(U+0079) “latin small letter y”
+{ ɥ } rounded front extra-tense vocoid		(U+0265) “latin small letter turned h”
+
+{ ᴕ } unrounded rear tense vocoid			(U+1D15) “latin letter small capital ou”
+{ u } rounded rear tense vocoid			(U+0075) “latin small letter u”
+{ ɪ } unrounded front tense vocoid			(U+026A) “latin letter small capital i”
+{ ʉ } rounded front tense vocoid			(U+0289) “latin small letter u bar”
+
+{ ə } unrounded rear near-tense vocoid		(U+0259) “latin small letter schwa”
+{ ʊ } rounded rear near-tense vocoid		(U+028A) “latin small letter upsilon”
+{ ᵻ } unrounded front near-tense vocoid		(U+1D7B) “latin small capital letter i with stroke”
+{ ᵿ } rounded front near-tense vocoid		(U+1D7F) “latin small letter upsilon with stroke”
+
+{ a } unrounded rear lax vocoid			(U+0061) “latin small letter a”
+{ o } rounded rear lax vocoid				(U+006F) “latin small letter o”
+{ æ } unrounded centre lax vocoid			(U+00E6) “latin small letter ae”
+{ œ } rounded centre lax vocoid			(U+0153) “latin small ligature oe”
+{ e } unrounded front lax vocoid			(U+0065) “latin small letter e”
+{ ø } rounded front lax vocoid				(U+00F8) “latin small letter o with stroke”
+
+{ ᴀ } unrounded rear extra-lax vocoid		(U+1D00) “latin letter small capital a”
+{ ɔ } rounded rear extra-lax vocoid			(U+0254) “latin small letter open o”
+{ ᴁ } unrounded centre extra-lax vocoid		(U+1D01) “latin letter small capital ae”
+{ ɶ } rounded centre extra-lax vocoid		(U+0276) “latin letter small capital oe”
+{ ᴇ } unrounded front extra-lax vocoid		(U+1D07) “latin letter small capital e”
+{ ꬿ } rounded front extra-lax vocoid			(U+AB3F) “latin small letter open o with stroke”
+
