@@ -3,7 +3,7 @@
 ##### A Criticism of the International Phonetic Alphabet
 
 Typed by: Mister Özgün Öztekin ( ﻿SalviaSage﻿ )  
-Date of last revision: 2026‑03‑27   
+Date of last revision: 2026‑03‑28   
 Word count: ≈26,000  
 Paragraph count: 441  
 Chapter count: 20
@@ -319,7 +319,7 @@ Japanese Katakana Examples: “ ﻿ラ, レ, リ, ロ, ル﻿ ” [�
 
 [﻿](§3.26)They are sounds whereby two articulators are made to strike one another. Examples include the bidental percussive, where the upper teeth and the lower teeth hit each other. And the bilabial percussive, where the lips are made to hit each other. The most common and easiest of these is the tongue cluck sound that you may already be familiar with; it is done by placing the tongue on the front of the palate, sucking in, and then letting go. With that force, the tongue strikes the floor of the mouth { ﻿ꭅ﻿ }, thus “ ﻿percussives﻿ ”.
 
-[﻿](§3.27){ ʔ / ɂ / ◌ˀ } glottal stop / glottal percussive (U+0294 / U+0242 / U+02C0) “latin letter glottal stop”  
+[﻿](§3.27){ ʔ / ◌ˀ } glottal stop / glottal percussive (U+0294 / U+02C0) “latin letter glottal stop”  
 { ꭅ } lingual percussive (U+AB45) “latin small letter stirrup r” ( ﻿[ ﻿ǃ¡﻿ ] in IPA﻿ ) ⁽¹⁾  
 { ʭ } bidental percussive (U+02AD) “latin letter bidental percussive”  
 { ʬ } bilabial percussive (U+02AC) “latin letter bilabial percussive”
