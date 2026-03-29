@@ -40,7 +40,7 @@ https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/tree/master/Audio%2
 **Feel free to post any issues or questions here:**  
 https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/issues
 
-*GitHub is where I aim to host the entirety of the project in its electronic format.*
+*GitHub is where I aim to host the entirety of the project in its electronic format.*  
 *Thanks for your interest in the Translingual Phonetic Alphabet (TPA).*
 
 ~~~
