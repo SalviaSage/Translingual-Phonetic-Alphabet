@@ -3,7 +3,7 @@
 ##### A Criticism of the International Phonetic Alphabet
 
 Typed by: Mister Özgün Öztekin ( ﻿SalviaSage﻿ )  
-Date of last revision: 2026‑03‑28   
+Date of last revision: 2026‑03‑28  
 Word count: ≈26,000  
 Paragraph count: 441  
 Chapter count: 20
@@ -238,9 +238,9 @@ Examples from the Devanagari alphabet include: ( ﻿क, ख, ग, घ,�
 
 [﻿](§3.12){ ƾ } voiceless glottal plosive (U+01BE) “latin letter inverted glottal stop with stroke” (not in IPA) ⁽¹⁾  
 { ꞯ } voiceless pharyngeal plosive ( ﻿U+A7AF﻿ ) “latin letter small capital q”  
-&nbsp;&nbsp;&nbsp;&nbsp;( [ ʡ ] in IPA, [ ꞯ ] in extIPA, https://en.wiktionary.org/wiki/%EA%9E%AF ⁽²⁾  
+&nbsp;&nbsp;&nbsp;&nbsp;([ ʡ ] in IPA, [ ꞯ ] in extIPA, https://en.wiktionary.org/wiki/%EA%9E%AF ⁽²⁾  
 { 𝼂 } voiced pharyngeal plosive ( ﻿U+1DF02﻿ ) “latin letter small capital turned g”  
-&nbsp;&nbsp;&nbsp;&nbsp;( [ ʡ ] in IPA, [ 𝼂 ] in extIPA, https://en.wiktionary.org/wiki/%F0%9D%BC%82  
+&nbsp;&nbsp;&nbsp;&nbsp;([ ʡ ] in IPA, [ 𝼂 ] in extIPA, https://en.wiktionary.org/wiki/%F0%9D%BC%82  
 { q } voiceless uvular plosive (U+0071) “latin small letter q”  
 { ɢ } voiced uvular plosive (U+0262) “latin letter small capital g”  
 { k } voiceless velar plosive (U+006B) “latin small letter k”  
@@ -273,7 +273,7 @@ Examples from the Devanagari alphabet include: ( ﻿क, ख, ग, घ,�
 
 ##### [﻿](§3.16)*( ﻿3﻿ ) Implosives ( ﻿glottalic ingressives﻿ ):*
 
-[﻿](§3.17)They are just like the plosives, but the main difference is that the glottal opening is closed, and then a downward motion is performed. That is, the plosives are pronounced ingressively, with a closed glottis. These can be either voiceless or voiced, and they are consonants like { ﻿p↓, b↓, t↓, d↓, k↓, g↓﻿ }. They were written as [ ﻿ƥ, ɓ, ƭ, ɗ, ƙ, ɠ﻿ ] in the IPA, but the letters for the voiceless implosives were withdrawn in 1993 ( ﻿citation: [https://en.wikipedia.org/wiki/%C6%A4](https://en.wikipedia.org/wiki/Ƥ)). It is easier to pronounce them as voiced, and they are more distinct that way. Also, it is easier to pronounce the more frontal plosive sounds in this way, such as { ﻿b↓, d↓﻿ }. The reason why implosives are the only category for glottalic ingressives is that they have to be fully occluded. The plosives are the only sounds that match this definition. I investigated whether affricates could be glottalic ingressive and ruled that they couldn't be.
+[﻿](§3.17)They are just like the plosives, but the main difference is that the glottal opening is closed, and then a downward motion is performed. That is, the plosives are pronounced ingressively, with a closed glottis. These can be either voiceless or voiced, and they are consonants like { ﻿p↓, b↓, t↓, d↓, k↓, g↓﻿ }. They were written as [ ﻿ƥ, ɓ, ƭ, ɗ, ƙ, ɠ﻿ ] in the IPA, but the letters for the voiceless implosives were withdrawn in 1993 (citation: https://en.wikipedia.org/wiki/%C6%A4). It is easier to pronounce them as voiced, and they are more distinct that way. Also, it is easier to pronounce the more frontal plosive sounds in this way, such as { ﻿b↓, d↓﻿ }. The reason why implosives are the only category for glottalic ingressives is that they have to be fully occluded. The plosives are the only sounds that match this definition. I investigated whether affricates could be glottalic ingressive and ruled that they couldn't be.
 
 [﻿](§3.18)They are not at all popular sounds, but reportedly Vietnamese has the easier to pronounce frontal implosives { ﻿b↓, d↓﻿ }. They can be written with the downward arrow in the TPA as { ﻿p↓, b↓, t↓, d↓, k↓, g↓﻿ } and in the IPA as [ ﻿p↓, b↓, t↓, d↓, k↓, g↓﻿ ].
 
@@ -309,7 +309,7 @@ Quick pronunciations of the plosives in words like “ ﻿ladder﻿ ” or �
 Japanese Hiragana Examples: “ ﻿ら, れ, り, ろ, る﻿ ” [ ﻿ɾa, ɾe, ɾi, ɾo, ɾu﻿ ]  
 Japanese Katakana Examples: “ ﻿ラ, レ, リ, ロ, ル﻿ ” [ ﻿ɾa, ɾe, ɾi, ɾo, ɾu﻿ ]
 
-[﻿](§3.23){ ɿ } voiced retroflex tap (U+027F) “latin small letter reversed r with fishhook” ( ﻿[ ﻿ɽ﻿ ] in IPA﻿ )  
+[﻿](§3.23){ ɿ } voiced retroflex tap (U+027F) “latin small letter reversed r with fishhook” ([ ﻿ɽ﻿ ] in IPA)  
 &nbsp;&nbsp;&nbsp;&nbsp;Alternative letter: { 𝼖 } (U+1DF16) “latin small letter r with fishhook and palatal hook”  
 { ɾ } voiced alveolar tap (U+027E) “latin small letter r with fishhook”
 
@@ -336,13 +336,13 @@ Japanese Katakana Examples: “ ﻿ラ, レ, リ, ロ, ル﻿ ” [�
 Tamil Alphabet Examples: ( ﻿ங, ஞ, ண, ந, ன, ம﻿ )  
 IPA Examples: [ ﻿m, n, ŋ, ɲ, ɳ, ɴ﻿ ]
 
-[﻿](§3.33){ ꬼ } voiced uvular nasal obstruent (U+AB3C) “latin small letter eng with crossed-tail” ( ﻿[ ﻿ɴ﻿ ] in IPA﻿ )  
+[﻿](§3.33){ ꬼ } voiced uvular nasal obstruent (U+AB3C) “latin small letter eng with crossed-tail” ([ ﻿ɴ﻿ ] in IPA)  
 { ŋ } voiced velar nasal obstruent (U+014B) “latin small letter eng”  
 { ɲ } voiced palatal nasal obstruent (U+0272) “latin small letter n with left hook”  
 { ȵ } voiced postalveolar nasal obstruent (U+0235) “latin small letter n with curl”  
-{ ᶇ } voiced retroflex nasal obstruent (U+1D87) “latin small letter n with palatal hook” ( ﻿[ ﻿ɳ﻿ ] in IPA﻿ )  
+{ ᶇ } voiced retroflex nasal obstruent (U+1D87) “latin small letter n with palatal hook” ([ ﻿ɳ﻿ ] in IPA)  
 { n } voiced alveolar nasal obstruent (U+006E) “latin small letter n”  
-{ ɴ } voiced dental nasal obstruent (U+0274) “latin letter small capital n” ( ﻿[ ﻿n̪﻿ ] in IPA﻿ )  
+{ ɴ } voiced dental nasal obstruent (U+0274) “latin letter small capital n” ([ ﻿n̪﻿ ] in IPA)  
 { ꬻ } voiced interdental nasal obstruent (U+AB3B) “latin small letter n with crossed-tail”  
 { ɱ } voiced labiodental nasal obstruent (U+0271) “latin small letter m with hook”  
 { m } voiced bilabial nasal obstruent (U+006D) “latin small letter m”
@@ -359,7 +359,7 @@ IPA Examples: [ ﻿m, n, ŋ, ɲ, ɳ, ɴ﻿ ]
 
 ##### [﻿](§3.38)*( ﻿8﻿ ) Clicks ( ﻿lingual ingressives﻿ ):*
 
-[﻿](§3.39)The clicks are sounds that are pronounced by sucking in with the tongue ( ﻿lingual ingressives﻿ ). These sounds are used in some southern African languages in speech. There may be some confusion on the pronunciation of the bilabial click since it seems like it does not involve the tongue. However, I have seen an MRI recording and read explanations that say that the tongue is still sucking in on the palate in some way during the pronunciation of the bilabial click. But otherwise, the suction may just be done with the lips instead ( ﻿bilabial ingressive﻿ ).
+[﻿](§3.39)The clicks are sounds that are pronounced by sucking in with the tongue (lingual ingressives). These sounds are used in some southern African languages in speech. There may be some confusion on the pronunciation of the bilabial click since it seems like it does not involve the tongue. However, I have seen an MRI recording and read explanations that say that the tongue is still sucking in on the palate in some way during the pronunciation of the bilabial click. But otherwise, the suction may just be done with the lips instead ( ﻿bilabial ingressive﻿ ).
 
 [﻿](§3.40){ ꝙ } uvular click (U+A759) “latin small letter q with diagonal stroke”  
 { ʞ } velar click (U+029E) “latin small letter turned k”  
@@ -416,11 +416,11 @@ IPA Examples: [ ﻿m, n, ŋ, ɲ, ɳ, ɴ﻿ ]
 { x } voiceless velar fricative (U+0078) “latin small letter x”  
 { ɣ } voiced velar fricative (U+0263) “latin small letter gamma”  
 { ç } voiceless palatal fricative (U+00E7) “latin small letter c with cedilla”  
-{ ỿ } voiced palatal fricative (U+1EFF) “latin small letter y with loop” ( ﻿[ ﻿ʝ﻿ ] in IPA﻿ )  
-{ ş } voiceless postalveolar fricative (U+015F) “latin small letter s with cedilla” ( ﻿[ ﻿ʃ﻿ ] in IPA﻿ )  
+{ ỿ } voiced palatal fricative (U+1EFF) “latin small letter y with loop” ([ ﻿ʝ﻿ ] in IPA)  
+{ ş } voiceless postalveolar fricative (U+015F) “latin small letter s with cedilla” ([ ﻿ʃ﻿ ] in IPA)  
 &nbsp;&nbsp;&nbsp;&nbsp;Alternative letter: { ʃ } (U+0283) “latin small letter esh”  
 { ʒ } voiced postalveolar fricative (U+0292) “latin small letter ezh”  
-{ ᶊ } voiceless retroflex fricative (U+1D8A) “latin small letter s with palatal hook”  
+{ ᶊ } voiceless retroflex fricative (U+1D8A) “latin small letter s with palatal hook” ([ ﻿ʂ﻿ ] in IPA)  
 { ɻ } voiced retroflex fricative (U+027B) “latin small letter turned r with hook”  
 { s } voiceless laminal-alveolar fricative (U+0073) “latin small letter s”  
 { z } voiced laminal-alveolar fricative (U+007A) “latin small letter z”  
@@ -428,7 +428,7 @@ IPA Examples: [ ﻿m, n, ŋ, ɲ, ɳ, ɴ﻿ ]
 { ɹ } voiced apical-alveolar fricative (U+0279) “latin small letter turned r”  
 { ſ } voiceless dental fricative (U+017F) “latin small letter long s”  
 { ƌ } voiced dental fricative (U+018C) “latin small letter d with topbar”  
-{ þ } voiceless interdental fricative (U+03B8) “latin small letter thorn”  
+{ þ } voiceless interdental fricative (U+03B8) “latin small letter thorn” ([ ﻿θ﻿ ] in IPA)  
 &nbsp;&nbsp;&nbsp;&nbsp;Alternative letter: { θ } (U+00FE) “greek small letter theta”  
 { ð } voiced interdental fricative (U+00F0) “latin small letter eth”  
 { ᶂ } voiceless supra-labiodental fricative (U+1D82) “latin small letter f with palatal hook” ⁽²⁾  
@@ -459,7 +459,7 @@ IPA Examples: [ ﻿m, n, ŋ, ɲ, ɳ, ɴ﻿ ]
 &nbsp;&nbsp;&nbsp;&nbsp;Alternative letter: { λ } voiced palatal bilateral fricative (U+03BB) “greek small letter lamda”  
 { ƛ } voiceless palatal bilateral fricative (U+019B) “latin small letter lambda with stroke”  
 { ʎ } voiced postalveolar bilateral fricative (U+028E) “latin small letter turned y”  
-{ 𝼆 } voiceless postalveolar bilateral fricative (U+1DF06) “latin small letter turned y with belt”    
+{ 𝼆 } voiceless postalveolar bilateral fricative (U+1DF06) “latin small letter turned y with belt”  
 { ᶅ } voiced retroflex bilateral fricative (U+1D85) “latin small letter l with palatal hook”  
 { 𝼓 } voiceless retroflex bilateral fricative (U+1DF13) “latin small letter l with belt and palatal hook”  
 { l } voiced alveolar bilateral fricative (U+006C) “latin small letter l”  
@@ -503,7 +503,7 @@ IPA Examples: [ ﻿m, n, ŋ, ɲ, ɳ, ɴ﻿ ]
 
 ##### [﻿](§3.64)*( ﻿13﻿ ) Approximants ( ﻿semi‑vowels﻿ ):*
 
-[﻿](§3.65)You can think of these sounds as between vocoids and fricatives; they are basically like vocoids but more strictive. For example, in English, the consonant ‘ ﻿w﻿ ’ is a more constricted version of the sound represented by ‘ ﻿u﻿ ’. The constriction is done by rounding the lips a little more than in the case of ‘ ﻿u﻿ ’. Furthermore, it is important to note that a similar constriction can be done without making the lips rounded. This is the case as it is in the Japanese language. We typically write “ ﻿watashi wa﻿ ”, but here, unlike in the English ‘ ﻿w﻿ ’, the lips are not rounded. Think about it; why would it be since it is easier not to do so? That is an added step. Thus, we need to make a distinction between ‘ ﻿v﻿ ’, ‘ ﻿u﻿ ’, ‘ ﻿w﻿ ’ and the unrounded ‘ ﻿w﻿ ’ which I assigned the letter ‘ ﻿ɯ﻿ ’. It looks like two of the ‘ ﻿u﻿ ’ letters instead of two ‘ ﻿v﻿ ’ letters. I think it is an appropriate letter. And yes, this letter is the unrounded close back vowel in the IPA, but I thought that it looked bad as a vowel and that it looked inappropriate. I believe that it is more fitting here. I then went and took the letter ‘ ﻿ᴕ﻿ ’ ( ﻿U+1D15﻿ ) from the Uralic Phonetic Alphabet to fill its place. Also, I want to comment that in the English language, the letter ‘ ﻿w﻿ ’ is incorrectly being called a “ ﻿double u﻿ ” when in fact it is a “ ﻿double v﻿ ”. It is called a “ ﻿double v﻿ ” in all other languages. Only English calls this letter by this incorrect name. The “ ﻿double u﻿ ” is in fact another letter, the letter ‘ ﻿ɯ﻿ ’ which has the Unicode ( ﻿U+026F﻿ ).
+[﻿](§3.65)You can think of these sounds as between vocoids and fricatives; they are basically like vocoids but more strictive. For example, in English, the consonant ‘ ﻿w﻿ ’ is a more constricted version of the sound represented by ‘ ﻿u﻿ ’. The constriction is done by rounding the lips a little more than in the case of ‘ ﻿u﻿ ’. Furthermore, it is important to note that a similar constriction can be done without making the lips rounded. This is the case as it is in the Japanese language. We typically write “ ﻿watashi wa﻿ ”, but here, unlike in the English ‘ ﻿w﻿ ’, the lips are not rounded. Think about it; why would it be since it is easier not to do so? That is an added step. Thus, we need to make a distinction between ‘ ﻿v﻿ ’, ‘ ﻿u﻿ ’, ‘ ﻿w﻿ ’ and the unrounded ‘ ﻿w﻿ ’ which I assigned the letter ‘ ﻿ɯ﻿ ’. It looks like two of the ‘ ﻿u﻿ ’ letters instead of two ‘ ﻿v﻿ ’ letters. I think it is an appropriate letter. And yes, this letter is the unrounded close back vowel in the IPA, but I thought that it looked bad as a vowel and that it looked inappropriate. I believe that it is more fitting here. I then went and took the letter ‘ ﻿ᴕ﻿ ’ (U+1D15) from the Uralic Phonetic Alphabet to fill its place. Also, I want to comment that in the English language, the letter ‘ ﻿w﻿ ’ is incorrectly being called a “ ﻿double u﻿ ” when in fact it is a “ ﻿double v﻿ ”. It is called a “ ﻿double v﻿ ” in all other languages. Only English calls this letter by this incorrect name. The “ ﻿double u﻿ ” is in fact another letter, the letter ‘ ﻿ɯ﻿ ’ which has the Unicode (U+026F).
 
 [﻿](§3.66)Approximants are unique in the way that they are the grey area between the contoids and vocoids. A language may treat an approximant as a vowel or as a consonant phonologically. A good example of this is the Arabic letters *wāw* and *yā*. Although, phonetically, they are considered contoids by default in the TPA.
 
@@ -577,13 +577,13 @@ IPA Examples: [ ﻿m, n, ŋ, ɲ, ɳ, ɴ﻿ ]
 
 [﻿](§3.85)In [ ﻿e﻿ ], the jaw is lowered more than in [ ﻿i﻿ ] which means the mouth is more open as the air exits. I have established four levels of vowel laxity, basing them on the continuation of the approximants and other contoids. These vocoids are in full conformity with the contoids positions, they should not be measured separately. I call them tense vocoids, near‑tense vocoids, lax vocoids, and extra‑lax vocoids. There are articulatory, orthographic, and phonetic differences between the two tense vocoids and the two lax vocoids in world languages. Although some people claim that there are phonemic differences between them, so far, I have not been able to note this difference.
 
-[﻿](§3.86)I will try to prove that there are four levels to vowel laxity plus the approximant base level. In languages, we have a phenomenon called “ ﻿stress﻿ ”, which plays an important role in phonology and syllables. For example, in multi‑syllable words, the stress will be on a specific syllable. That syllable will have its vowel pronounced in a more open ( ﻿lax﻿ ) way in many languages. For example, this is the case in English, although I don't think such a pronunciation is employed in the French language. Also, in French, I believe all the vowels are pronounced in a little bit more tense manner than in English. Compare these two English words: “ ﻿bit﻿ ” and “ ﻿empty﻿ ”. “ ﻿bit﻿ ” is one syllable, and since in English, at least one syllable in any word has to be stressed, this vowel is stressed and is pronounced like a near‑tense vocoid. While in “ ﻿empty﻿ ”, the first vowel is stressed, so the last vowel is pronounced as a tense vocoid ( ﻿not as lax as in “ ﻿bit﻿ ”﻿ ). This is very much a real thing in English; however, the distinction itself is not phonological. It is purely phonetic.
+[﻿](§3.86)I will try to prove that there are four levels to vowel laxity plus the approximant base level. In languages, we have a phenomenon called “ ﻿stress﻿ ”, which plays an important role in phonology and syllables. For example, in multi‑syllable words, the stress will be on a specific syllable. That syllable will have its vowel pronounced in a more open ( ﻿lax﻿ ) way in many languages. For example, this is the case in English, although I don't think such a pronunciation is employed in the French language. Also, in French, I believe all the vowels are pronounced in a little bit more tense manner than in English. Compare these two English words: “ ﻿bit﻿ ” and “ ﻿empty﻿ ”. “ ﻿bit﻿ ” is one syllable, and since in English, at least one syllable in any word has to be stressed, this vowel is stressed and is pronounced like a near‑tense vocoid. While in “ ﻿empty﻿ ”, the first vowel is stressed, so the last vowel is pronounced as a tense vocoid ( ﻿not as lax as in “ ﻿bit﻿ ”). This is very much a real thing in English; however, the distinction itself is not phonological. It is purely phonetic.
 
 [﻿](§3.87)French: “ ﻿bitte﻿ ” [ ﻿j﻿ ]  
 Turkish: “ ﻿bit﻿ ” [ ﻿i﻿ ]  
 English: “ ﻿bit﻿ ” [ ﻿ɪ﻿ ]  
 English: “ ﻿bet﻿ ” [ ﻿e﻿ ]  
-English: “ ﻿egg﻿ ” [ ﻿ɛ﻿﻿ ]
+English: “ ﻿egg﻿ ” [ ﻿ɛ﻿ ]
 
 [﻿](§3.88)Regarding the topic of a phonological distinction between near‑tense, tense, lax, and extra‑lax; I do not believe that languages make a phonological distinction between them, and I have not seen proof of that in my research. They do make orthographical and phonetic distinctions in different languages for various reasons, but I do not believe that they ever make a phonological distinction. That is, if we were to substitute [ ﻿e﻿ ] for [ ﻿ɛ﻿ ], we would never get a separate word and the speakers of a given language would not be able to make a distinction. They sound too alike for such a distinction to be made. I do know that sometimes such explanations are made, considering [ ﻿e﻿ ] and [ ﻿ɛ﻿ ] to be separate vowels in languages. But I believe it's not the case. I know that languages may make an orthographical distinction, which my five‑level vowel system still fully accounts for, but that does not prove a phonological distinction. I will try to demonstrate this further by giving examples from graphology.
 
@@ -609,20 +609,20 @@ https://en.wikipedia.org/wiki/Vowel
 
 #### CHAPTER FOUR ( ﻿Ⅳ﻿ ): Phonetic Occlusivity
 
-[﻿](§4.1)I believe I have to define what I mean here by phonetic occlusivity. Occlusive is a sound where a full obstruction is made in the vocal tract. Another word for it is obstruent. The vocal tract is fully closed, even if briefly. While in strictive, a restriction is made that is not a full occlusion, in non‑strictive, a restriction is not made ( ﻿for example, the vowel sounds﻿ ). Still, the mouth, the jaw, the tongue, and the lips may be moved. Thus, we have three levels of occlusivity, and we need to have them to explain the sounds accurately. We can have occlusive, strictive, and non‑strictive sounds for the pulmonics, while we can only have occlusive and strictive sounds for ejectives, and we can only have occlusive sounds for implosives.
+[﻿](§4.1)I believe I have to define what I mean here by phonetic occlusivity. Occlusive is a sound where a full obstruction is made in the vocal tract. Another word for it is obstruent. The vocal tract is fully closed, even if briefly. While in strictive, a restriction is made that is not a full occlusion, in non‑strictive, a restriction is not made (for example, the vowel sounds). Still, the mouth, the jaw, the tongue, and the lips may be moved. Thus, we have three levels of occlusivity, and we need to have them to explain the sounds accurately. We can have occlusive, strictive, and non‑strictive sounds for the pulmonics, while we can only have occlusive and strictive sounds for ejectives, and we can only have occlusive sounds for implosives.
 
 [﻿](§4.2)Again, this is factual information that is perhaps not there in other literature, but it is true. I implore you to test it for yourself. I have attempted to make a graph where I try to show all these sounds in a LibreOffice Calc spreadsheet. You can find it here:  
 https://github.com/SalviaSage/Translingual-Phonetic-Alphabet
 
-[﻿](§4.3)Lingual does not have anything to do with the glottis. Thus, the voicing element is completely left out of its operation. It works by pistoning the air outwards with the tongue ( ﻿egressive﻿ ), or by sucking in with the tongue ( ﻿ingressive﻿ ). This suction motion is known as clicks, while the egressive motion of pistoning the air out is known as velarics. So again, some terminology: egressive glottalics are commonly called “ ﻿ejectives﻿ ” while ingressive glottalics are called “ ﻿implosives﻿ ”. Egressive linguals are called “ ﻿velarics﻿ ” while ingressive linguals are called “ ﻿clicks﻿ ”.
+[﻿](§4.3)Lingual does not have anything to do with the glottis. Thus, the voicing element is completely left out of its operation. It works by pistoning the air outwards with the tongue (egressive), or by sucking in with the tongue (ingressive). This suction motion is known as clicks, while the egressive motion of pistoning the air out is known as velarics. So again, some terminology: egressive glottalics are commonly called “ ﻿ejectives﻿ ” while ingressive glottalics are called “ ﻿implosives﻿ ”. Egressive linguals are called “ ﻿velarics﻿ ” while ingressive linguals are called “ ﻿clicks﻿ ”.
 
-[﻿](§4.4)Pulmonic egressives can be voiceless or voiced ( ﻿voicing, meaning the vibration of the vocal cords﻿ ) while glottalic egressives ( ﻿ejectives﻿ ) can only be voiceless. Pulmonic Ingressives ( ﻿implosives﻿ ) on the other hand, can be either voiceless or voiced.
+[﻿](§4.4)Pulmonic egressives can be voiceless or voiced (voicing, meaning the vibration of the vocal cords) while glottalic egressives (ejectives) can only be voiceless. Pulmonic Ingressives (implosives) on the other hand, can be either voiceless or voiced.
 
 [﻿](§4.5)In the linguals and percussives, the voicing element is completely left out of operation. This is because the linguals are pronounced in the mouth with the tongue, so they completely bypass the throat and have nothing to do with the throat. This is also true for percussives. In the glottal percussive or glottal stop, the vocal cords are brought together to make a full closure. The glottal stop is also referred to as a glottal percussive in this document.
 
 #### CHAPTER FIVE ( ﻿Ⅴ﻿ ): Definition of the Glottal Stop
 
-[﻿](§5.1)Citation of the Wikipedia article for the glottal stop﻿ ﻿:  
+[﻿](§5.1)Citation of the Wikipedia article for the glottal stop:  
 https://en.wikipedia.org/wiki/Glottal_stop  
 I do not agree with the following statement that we can find on this webpage:
 
@@ -630,7 +630,7 @@ I do not agree with the following statement that we can find on this webpage:
 
 [﻿](§5.3)I am making the argument that this sound is not pulmonic and that it is percussive. There isn't any kind of push of air from the lungs to cause the motion for this particular articulation. Such a thing is possible; however, this gives us the coughing sound, which is a different sound than the glottal stop. Technically, the cough is a “ ﻿glottal plosive﻿ ”. Thus, I call what other literature calls a “ ﻿glottal stop﻿ ”, a “ ﻿glottal percussive﻿ ”. It is when both the vocal cords are brought together and made to hit one another briefly, then let go. This motion can also be held at that spot, which is what happens when a person holds their breath. This glottal stop must not be confused with a “ ﻿glottal plosive﻿ ” which is the coughing sound. I believe it is important to make the distinction between a “ ﻿glottal percussive﻿ ” and a “ ﻿glottal plosive﻿ ” ( ﻿a cough﻿ ) as they are not the same thing mechanically.
 
-[﻿](§5.4)Therefore, I define the “ ﻿cough﻿ ” as a “ ﻿( ﻿voiceless﻿ ) glottal plosive﻿ ”. Its voiced variant cannot exist for the same reason that ejectives cannot be voiced. And the “ ﻿snort﻿ ” as a “ ﻿nasalised ingressive uvular trill﻿ ”. That is, the air comes inward from the nose and trills the uvula. The “ ﻿sniff﻿ ” as “ ﻿ingressive nasal fricative﻿ ” and “ ﻿blowing the nose﻿ ” as “ ﻿egressive nasal fricative﻿ ”.
+[﻿](§5.4)Therefore, I define the “ ﻿cough﻿ ” as a “ ﻿(voiceless) glottal plosive﻿ ”. Its voiced variant cannot exist for the same reason that ejectives cannot be voiced. And the “ ﻿snort﻿ ” as a “ ﻿nasalised ingressive uvular trill﻿ ”. That is, the air comes inward from the nose and trills the uvula. The “ ﻿sniff﻿ ” as “ ﻿ingressive nasal fricative﻿ ” and “ ﻿blowing the nose﻿ ” as “ ﻿egressive nasal fricative﻿ ”.
 
 #### CHAPTER SIX ( ﻿Ⅵ﻿ ): Explanations of Secondary Articulations
 
@@ -688,9 +688,9 @@ I do not agree with the following statement that we can find on this webpage:
 
 [﻿](§9.2)Ejective consonants can also be in clusters. It is true that ejective consonants can only be short‑duration consonants, but that doesn't prevent them from being pronounced in succession.
 
-[﻿](§9.3)Sometimes there will be phonological rules in languages that prevent clusters at certain positions in words. Some of them are more liberal when it comes to this; for example, Slavic languages tend to be consonant heavy, and consonant clusters of up to three consonants can be found at the start, the middle or the end. An entire word can be made up of consonants. In the case of Turkish, we can have “ double consonant clusters ” at the end of words but not at the start of words. So, for example, the word “ ﻿train﻿ ” is pronounced with a vowel inserted between the ‘ ﻿t﻿ ’ and the ‘ ﻿r﻿ ’. This is sometimes demonstrated in literature as CVCC or CCCVCCC. For example, the English word “ ﻿strengths﻿ ” is CCCVCCC.
+[﻿](§9.3)Sometimes there will be phonological rules in languages that prevent clusters at certain positions in words. Some of them are more liberal when it comes to this; for example, Slavic languages tend to be consonant heavy, and consonant clusters of up to three consonants can be found at the start, the middle or the end. An entire word can be made up of consonants. In the case of Turkish, we can have “ ﻿double consonant clusters﻿ ” at the end of words but not at the start of words. So, for example, the word “ ﻿train﻿ ” is pronounced with a vowel inserted between the ‘ ﻿t﻿ ’ and the ‘ ﻿r﻿ ’. This is sometimes demonstrated in literature as CVCC or CCCVCCC. For example, the English word “ ﻿strengths﻿ ” is CCCVCCC.
 
-#### CHAPTER TEN ( ﻿Ⅹ﻿ ): Criticisms of the International Phonetic Alphabet ( ﻿IPA﻿ )
+#### CHAPTER TEN ( ﻿Ⅹ﻿ ): Criticisms of the International Phonetic Alphabet (IPA)
 
 [﻿](§10.1)In this chapter, I want to criticise the International Phonetic Alphabet and Wikipedia articles freely and extensively.
 
@@ -707,7 +707,7 @@ I want to talk about my belief that the vowel chart of the International Phoneti
 
 [﻿](§10.7)It was incredibly difficult for me to come up with a factual system, and it took me months and many revisions, but eventually, I believe I came up with a system that is more accurate than that of the IPA. For example, in the IPA vowel chart, how can the Latin alphabet letter ‘ ﻿a﻿ ’ be classified as a front vowel? (https://en.wikipedia.org/wiki/Open_front_unrounded_vowel) It is not a letter that represents a front vowel. It's a rear open vowel in the Latin alphabet. The letter ‘ ﻿æ﻿ ’ is being considered as a front vowel as well. (https://en.wikipedia.org/wiki/Near-open_front_unrounded_vowel) It glyphically looks like a combination (a ligature) of the letters ‘ ﻿a﻿ ’ and ‘ ﻿e﻿ ’. This letter was used in Old English spelling, and it represented a centre lax vowel to make up for the fact that the already existing Latin letters ‘ ﻿a﻿ ’ and ‘ ﻿e﻿ ’ did not make this distinction. Furthermore, there is evidence for my claim from the Futhorc alphabet for English, before the adoption of the Latin alphabet where there are two separate runes called oak (ᚪ), representing the ‘ ﻿a﻿ ’ vowel and ash (ᚫ), representing the ‘ ﻿æ﻿ ’ vowel.
 
-[﻿](§10.8)I correctly measured the human mouth and the positions of the tongue and determined that the vowels must be measured starting from the four established approximants, also known as semi‑vowels. This gives us an excellent measuring point from where we can measure the rest of the vowels. My alphabet has only front and rear vowels for tense vowels, as I believe that making a central distinction here is not necessary and is not done in world languages. Instead, here, a frontal ( ﻿palatal﻿ ) and a rear ( ﻿velar﻿ ) distinction, combined with the position of the jaw, is extensive enough. For open vowels, because the jaw is lower down, we have more room for the tongue. Languages plentily use this trait of the vocal tract. In my other literary work ( ﻿The Discourse on the Phonology of the English Language and a Critique﻿ ), I explained that the vowel letter “ ﻿aesc﻿ ” from Old English ( ﻿æ﻿ ) is a centre vowel and that it is not a front vowel as it is shown in the IPA chart. This also makes sense since this letter is clearly a combination of the letters ‘ ﻿a﻿ ’ and ‘ ﻿e﻿ ’ and its position of pronunciation lies right between the front vowel ‘ ﻿e﻿ ’ and the rear vowel ‘ ﻿a﻿ ’.
+[﻿](§10.8)I correctly measured the human mouth and the positions of the tongue and determined that the vowels must be measured starting from the four established approximants, also known as semi‑vowels. This gives us an excellent measuring point from where we can measure the rest of the vowels. My alphabet has only front and rear vowels for tense vowels, as I believe that making a central distinction here is not necessary and is not done in world languages. Instead, here, a frontal (palatal) and a rear (velar) distinction, combined with the position of the jaw, is extensive enough. For open vowels, because the jaw is lower down, we have more room for the tongue. Languages plentily use this trait of the vocal tract. In my other literary work (The Discourse on the Phonology of the English Language and a Critique), I explained that the vowel letter “ ﻿aesc﻿ ” from Old English ( ﻿æ﻿ ) is a centre vowel and that it is not a front vowel as it is shown in the IPA chart. This also makes sense since this letter is clearly a combination of the letters ‘ ﻿a﻿ ’ and ‘ ﻿e﻿ ’ and its position of pronunciation lies right between the front vowel ‘ ﻿e﻿ ’ and the rear vowel ‘ ﻿a﻿ ’.
 
 [﻿](§10.9)There are also vowels in the IPA that do not have labially rounded counterparts. This also makes no sense, as they can be unrounded. In my alphabet, there are ten vowel sets. Each one has a labially rounded counterpart, which gives us a total of twenty vowels. The approximants also have their rounded counterparts. I believe one thing that makes my vowel system excellent is the fact that they are measured from the approximants and relate to other consonants well. The vowel chart is not at all a separate chart, but it fits in very well with the other consonant sounds and their measurements.
 
@@ -722,7 +722,7 @@ The voiced glottal fricative [ ﻿ɦ﻿ ] does not exist. Its voiceless vari
 
 [﻿](§10.14)https://en.wikipedia.org/wiki/Voiced_alveolar_approximant  
 https://en.wikipedia.org/wiki/Voiced_retroflex_approximant  
-These consonants [ ﻿ɹ], ﻿ [ɻ] are misclassified as approximants. The correct definition is that they are voiced fricatives, articulated with the tip of the tongue on the alveolar ridge.
+These consonants [ ﻿ɹ﻿ ], [ ﻿ɻ﻿ ] are misclassified as approximants. The correct definition is that they are voiced fricatives, articulated with the tip of the tongue on the alveolar ridge.
 
 ##### [﻿](§10.15)*( ﻿4﻿ ) The velar click is being confused with the lateral click:*
 
@@ -751,7 +751,7 @@ These consonants [ ﻿ɹ], ﻿ [ɻ] are misclassified as approximants. The c
 > Voiced velar lateral approximant [ʟ] (in Wahgi)
 > Voiced uvular lateral approximant [ʟ̠] (in some American dialects)
 
-[﻿](§10.26)Here, the article claims that velar and uvular lateral approximants are possible, while I claim that bilateral fricatives ( ﻿lateral approximants﻿ ) cannot be pronounced at those places of articulation because the tongue is just not flexible enough. I already ruled that the furthest back point for lateral approximants is at the palatal position. Therefore, the last two entries are invalid. We know that in lateral approximants, the tip or the body of the tongue blocks the central part of the mouth while the air passes on the right and the left sides, hence “ ﻿bilateral fricatives﻿ ”. The rear part of the tongue ( ﻿Lat. *ᴅᴏʀꜱᴜᴍ*﻿ ) just doesn't have the flexibility to pronounce consonants in this way.
+[﻿](§10.26)Here, the article claims that velar and uvular lateral approximants are possible, while I claim that bilateral fricatives (lateral approximants) cannot be pronounced at those places of articulation because the tongue is just not flexible enough. I already ruled that the furthest back point for lateral approximants is at the palatal position. Therefore, the last two entries are invalid. We know that in lateral approximants, the tip or the body of the tongue blocks the central part of the mouth while the air passes on the right and the left sides, hence “ ﻿bilateral fricatives﻿ ”. The rear part of the tongue (Lat. *ᴅᴏʀꜱᴜᴍ*) just doesn't have the flexibility to pronounce consonants in this way.
 
 [﻿](§10.27)Also, this list has left out the “ ﻿interdental lateral approximant﻿ ” for which the IPA already has a character as listed below.
 
@@ -773,7 +773,7 @@ These consonants [ ﻿ɹ], ﻿ [ɻ] are misclassified as approximants. The c
 
 #### CHAPTER ELEVEN ( ﻿Ⅺ﻿ ): Explanation of Whispering
 
-[﻿](§11.1)We know that whispering is a real thing. So what happens when somebody whispers? The vocal cords are not vibrated ( ﻿are turned off﻿ ). The consonants and vowels that would normally be voiced are not voiced. In normal speech, it is a mix of voiceless and voiced sounds.
+[﻿](§11.1)We know that whispering is a real thing. So what happens when somebody whispers? The vocal cords are not vibrated (are turned off). The consonants and vowels that would normally be voiced are not voiced. In normal speech, it is a mix of voiceless and voiced sounds.
 
 [﻿](§11.2)So for example this pronunciation;  
 `{ ﻿ɔ̱l᷾ h͜yu̱mən bɪ̱ɪŋs a̱ɻ bo̱ɻn fɻɪ̱ː æ̱n ɪ̱ːkuəl᷾ ɪn dɪ̱gnɪtɪ æ̱n ɻa̱yts﻿ }`
@@ -787,7 +787,7 @@ These consonants [ ﻿ɹ], ﻿ [ɻ] are misclassified as approximants. The c
 
 [﻿](§12.1)What happens when someone lisps?
 
-[﻿](§12.2)They are unable to correctly articulate the sound { ﻿s﻿ }. It is a common sound in many languages. Instead, they pronounce { ﻿s﻿ } as a voiceless dental fricative { ﻿ſ﻿ } or as a voiceless interdental fricative { ﻿θ﻿ }. Those sounds are articulated further down at the upper teeth and between the teeth, while the { ﻿s﻿ } sound is articulated further up on the alveolar ridge. In the case of lisping, the speaker simply misses the mark while trying to hit an { ﻿s﻿ } and gets { ﻿ſ﻿ } or { ﻿θ﻿ } instead. This is a fault, as some languages do not even have the { ﻿θ﻿ } or the { ﻿ſ﻿ } sound but have the { ﻿s﻿ }. However, in some other languages, this is an intentional feature of the language, and a language may have both { ﻿θ﻿ } and { ﻿s﻿ } separately, as is the case in English. In this scenario, it is an intentional feature. A famous example of lisping is the Castilian Spanish language from Spain ( ﻿castellano﻿ ). For example, pronouncing “ ﻿Barcelona﻿ ” as { ﻿barſelona﻿ }.
+[﻿](§12.2)They are unable to correctly articulate the sound { ﻿s﻿ }. It is a common sound in many languages. Instead, they pronounce { ﻿s﻿ } as a voiceless dental fricative { ﻿ſ﻿ } or as a voiceless interdental fricative { ﻿θ﻿ }. Those sounds are articulated further down at the upper teeth and between the teeth, while the { ﻿s﻿ } sound is articulated further up on the alveolar ridge. In the case of lisping, the speaker simply misses the mark while trying to hit an { ﻿s﻿ } and gets { ﻿ſ﻿ } or { ﻿θ﻿ } instead. This is a fault, as some languages do not even have the { ﻿θ﻿ } or the { ﻿ſ﻿ } sound but have the { ﻿s﻿ }. However, in some other languages, this is an intentional feature of the language, and a language may have both { ﻿θ﻿ } and { ﻿s﻿ } separately, as is the case in English. In this scenario, it is an intentional feature. A famous example of lisping is the Castilian Spanish language from Spain (castellano). For example, pronouncing “ ﻿Barcelona﻿ ” as { ﻿barſelona﻿ }.
 
 [﻿](§12.3)It is common for children to miss the mark with regard to certain sounds. I can recall that I had difficulty pronouncing the sound esh [ ﻿ʃ﻿ ] and would pronounce an ess [ ﻿s﻿ ] instead. Another common one is the pronunciation of the ‘ ﻿r﻿ ’ sound as a ‘ ﻿y﻿ ’ with children. Usually, over time, these faults would be resolved by themselves without outside intervention. But in some cases, they continue into adulthood. There are adults who pronounce the ‘ ﻿r﻿ ’ as a ‘ ﻿y﻿ ’ because they are unable to pronounce it correctly.
 
@@ -803,17 +803,17 @@ These consonants [ ﻿ɹ], ﻿ [ɻ] are misclassified as approximants. The c
 
 #### CHAPTER FOURTEEN ( ﻿ⅩⅣ﻿ ): Introduction to the Translingual Phonetic Alphabet ( ﻿TPA﻿ )
 
-[﻿](§14.1)In order to be able to spell out words as they are pronounced accurately, we need to have a phonetic alphabet. We know for a fact that no language is written phonetically. Although some of them have spellings that are more phonetic than others, usually the spelling of languages is more phonemic than phonetic. For example, Turkish is spelled more phonetically than English because its alphabet and spelling were constructed specifically in the twentieth century in an alphabet reform. English, for example, has been using the Latin alphabet for about a millennium. Needless to say, English is not written phonetically, with words such as “ ﻿knight﻿ ” spelled the way they are. But if you go back in time far enough, there was a ‘ ﻿k﻿ ’ sound at the beginning of words such as “ ﻿knight﻿ ” and “ ﻿knife﻿ ”. There were separate [ ﻿h﻿ ] and [ ﻿w﻿ ] sounds in words like “ ﻿what﻿ ” and “ ﻿where﻿ ” in Old English. If we make such a scale, we can perhaps put English and Russian spelling around the same level, which shows blatant disregard for how words are pronounced, while we can put Turkish and Spanish at the top of the list, which are more phonetic in their writing systems. Chinese characters would be at the other end of the scale because this writing system does not hint at the pronunciation of words but simply states meanings instead ( ﻿logographs﻿ ). A phonetic alphabet is the other end of the scale. Thus, as a linguistic tool, a phonetic alphabet tries to fill in that gap. If you are good enough, you can create an alphabet that is based on the anatomy of the human vocal tract and its mechanisms and can spell out any utterance regardless of language. This is what the International Phonetic Alphabet ( ﻿IPA﻿ ) tries to do, and it is the best example of such an attempt. It is a good alphabet, but it was not good enough for me because I went out of my way to create a phonetic alphabet of my own.
+[﻿](§14.1)In order to be able to spell out words as they are pronounced accurately, we need to have a phonetic alphabet. We know for a fact that no language is written phonetically. Although some of them have spellings that are more phonetic than others, usually the spelling of languages is more phonemic than phonetic. For example, Turkish is spelled more phonetically than English because its alphabet and spelling were constructed specifically in the twentieth century in an alphabet reform. English, for example, has been using the Latin alphabet for about a millennium. Needless to say, English is not written phonetically, with words such as “ ﻿knight﻿ ” spelled the way they are. But if you go back in time far enough, there was a ‘ ﻿k﻿ ’ sound at the beginning of words such as “ ﻿knight﻿ ” and “ ﻿knife﻿ ”. There were separate [ ﻿h﻿ ] and [ ﻿w﻿ ] sounds in words like “ ﻿what﻿ ” and “ ﻿where﻿ ” in Old English. If we make such a scale, we can perhaps put English and Russian spelling around the same level, which shows blatant disregard for how words are pronounced, while we can put Turkish and Spanish at the top of the list, which are more phonetic in their writing systems. Chinese characters would be at the other end of the scale because this writing system does not hint at the pronunciation of words but simply states meanings instead (logographs). A phonetic alphabet is the other end of the scale. Thus, as a linguistic tool, a phonetic alphabet tries to fill in that gap. If you are good enough, you can create an alphabet that is based on the anatomy of the human vocal tract and its mechanisms and can spell out any utterance regardless of language. This is what the International Phonetic Alphabet (IPA) tries to do, and it is the best example of such an attempt. It is a good alphabet, but it was not good enough for me because I went out of my way to create a phonetic alphabet of my own.
 
 [﻿](§14.2)In order to create a phonetic alphabet, you need to have an excellent understanding of articulatory phonetics. Trying to make a phonetic alphabet that would accommodate all world languages is an extreme challenge. Then, I had to take into account that such an alphabet already exists, the International Phonetic Alphabet. My alphabet is closely related to the International Phonetic Alphabet, and of course, it has differences in areas where my explanations differ. Most of my explanations are the same as the explanations given in the International Phonetic Alphabet. I can say that it took me months to develop this alphabet.
 
 [﻿](§14.3)To demonstrate why a phonetic alphabet is important in linguistics, we shall look at this Russian word example: How do you pronounce the word “ ﻿*конечно*﻿ ”? If you have learned how to read the Cyrillic alphabet, you may proceed to read it as “ ﻿*konechno*﻿ ” { ﻿koneɕno﻿ }. However, your pronunciation will not be correct, even if you read the letters correctly. Because, here, the first ‘ ﻿о﻿ ’ and the last ‘ ﻿о﻿ ’ are pronounced as an ‘ ﻿а﻿ ’ instead. That is, it does not have labial rounding, as the spelling shows. But you learned that this letter is an ‘ ﻿о﻿ ’ when you learned the alphabet. Well, they didn't tell you the whole picture. The fact is, in Russian, just like in English, there is a stress pattern whereby at least one syllable is stressed in all words. And in this case, it happens to be the second, middle syllable, “ ﻿*коне́чно*﻿ ”. Well, that very fact with regards to syllable stress “ ﻿converts﻿ ” those unstressed ‘ ﻿о﻿ ’ letters into an ‘ ﻿а﻿ ’ pronunciation. The spelling just doesn't show this. This is called vowel reduction, and in many languages, vowel reduction is not marked in writing, including English, Hindi, Russian and German. Furthermore, the ‘ ﻿ч﻿ ’ letter that you learned to pronounce as the first sound in “ ﻿chair﻿ ” is being pronounced as if it is the letter ‘ ﻿ш﻿ ’, the first sound in “ ﻿sheep﻿ ”. And the letter ‘ ﻿e﻿ ’ palatalises the preceding letter ‘ ﻿н﻿ ’. Sometimes these schemes are predictable and can be predicted. Usually, as people improve their knowledge of the language, they figure out the correct pronunciations and can guess them based on the way the words are spelled. This is where phonetics and phonology come into play. The correct pronunciation is, in fact, “ ﻿*kanyeshna*﻿ ”. Of course, you already know this if you speak Russian. But that's the whole point, you don't! Also of note, we wrote “ ﻿*kanyeshna*﻿ ” as the correct pronunciation. But to be more precise, the ‘ ﻿н﻿ ’ and the ‘ ﻿е﻿ ’ are in fact pronounced at the same time, not successively. Using normal orthography, we can't write this, but we can write it using extended orthography, such as by using a combining tie bar (﻿ ͜   ﻿ ) “ ﻿*kan͜yeshna*﻿ ”. We can see that a digraph is being used here with the letters ( ﻿s﻿ ) and ( ﻿h﻿ ) when in fact none of those two letters are assigned the specific sound that we are looking for. Again, we have to resort to finding additional letters such as [ ﻿ʃ﻿ ] from the International Phonetic Alphabet or { ﻿ş﻿ } from the Translingual Phonetic Alphabet, which then gives us { ﻿kan͜yeşna﻿ } which is exactly the way to write how this word is pronounced. Let us compare them now: “ ﻿коне́чно﻿ ” in the Cyrillic alphabet and { ﻿kan͜ye̱şna﻿ } in the Translingual Phonetic Alphabet while the Wiktionary page gives [ ﻿kɐˈnʲeʂnə﻿ ] as the IPA transcription.
 
-[﻿](§14.4)In another example, let's look at the Chinese character “ ﻿得﻿ ” which is pronounced something like { ﻿dəo˧˥﻿ }, but the logograph Chinese character does not give you any hints as to how the word is pronounced. It does, however, tell you the meaning of the word. So, although you may be able to understand the meaning of the word ( ﻿to get, to obtain, to gain, to acquire, Wiktionary.org﻿ ) you would not know how to pronounce the word at all. Unless, of course, you also actually knew or studied that language.
+[﻿](§14.4)In another example, let's look at the Chinese character “ ﻿得﻿ ” which is pronounced something like { ﻿dəo˧˥﻿ }, but the logograph Chinese character does not give you any hints as to how the word is pronounced. It does, however, tell you the meaning of the word. So, although you may be able to understand the meaning of the word (to get, to obtain, to gain, to acquire, Wiktionary.org) you would not know how to pronounce the word at all. Unless, of course, you also actually knew or studied that language.
 
 [﻿](§14.5)In the first scenario in Russian, we had limited information about how a word is supposed to be pronounced. In the second scenario in Chinese, we had no information on how the word should to be pronounced. Instead, we were given the word's semantic meaning, as is the case with Chinese writing. So, we can say that logographic writing is on one end of the scale, which gives us no information on pronunciation, while phonetic writing is on the other end of the scale, which tries to give us full information as to how a word is pronounced. We already know that no language is written phonetically. They do not make spelling reforms to conform to the way words are pronounced. So, why is it like that? Let me answer this question for you: This is because a language, primarily, refers to spoken and historical language. Writing and spelling are only secondary to the spoken or “ ﻿existing﻿ ” language. It needs a system that works, and that system does not at all have to be phonetic, and often it isn't. It is sometimes argued that phonetic spelling is worse for languages, which is something that I also agree with. These languages have long‑established traditions of writing that simply cannot be thrown out in favour of phonetic writing. The reason why “ ﻿knife﻿ ” is spelled with a ‘ ﻿k﻿ ’ is because there was a pronounced ‘ ﻿k﻿ ’ in the past, but since then, it has been dropped. It is the same scenario with French‑language words that are spelled with the letter ‘ ﻿h﻿ ’. Even though today, the sound associated with this letter does not even exist in the French language, it is there for historical reasons. When someone attempts to change the way words are spelled, this is called a spelling reform. However, oftentimes, these attempts are fruitless, as world languages already have well‑established writing systems. However, they were not as well established or standardised in the past.
 
-[﻿](§14.6)So then, is there a way to spell out words phonetically? Yes, there is. The most famous attempt at this is, of course, the International Phonetic Alphabet ( ﻿IPA﻿ ). However, I found it odd that there is only one such phonetic alphabet of its kind. Considering that there are many programming languages, spoken languages, different alphabets, and different writing systems around the world, it is indeed odd that we have just one phonetic alphabet of its kind. I saw a gap in our scientific knowledge, and I thought that there should be another phonetic notation system and that I should try and make a new phonetic alphabet.
+[﻿](§14.6)So then, is there a way to spell out words phonetically? Yes, there is. The most famous attempt at this is, of course, the International Phonetic Alphabet (IPA). However, I found it odd that there is only one such phonetic alphabet of its kind. Considering that there are many programming languages, spoken languages, different alphabets, and different writing systems around the world, it is indeed odd that we have just one phonetic alphabet of its kind. I saw a gap in our scientific knowledge, and I thought that there should be another phonetic notation system and that I should try and make a new phonetic alphabet.
 
 [﻿](§14.7)I gave this project the title “ ﻿The Translingual Phonetic Alphabet﻿ ”. The project quickly grew out of its proportions, and it is now not only an excellent phonetic alphabet, but it also tries to be a complete linguistics research and study tool. It includes ways to represent grammatical phenomena, phonological phenomena, and typography. It is very modern, and it is racing to keep up with technological advancements in computational linguistics. I believe that I did the world a favour and that I advanced the scientific subjects of articulatory phonetics and phonetic notation in computers. Although my peers and others may disagree with me, I continue to hold on to my beliefs, and I am proud of my scientific work. In this work, I want to try to prove myself by giving further examples and details as to how this new phonetic alphabet can be used.
 
@@ -853,30 +853,30 @@ These consonants [ ﻿ɹ], ﻿ [ɻ] are misclassified as approximants. The c
 
 [﻿](§15.17)Transcribe orthographical texts either by hand or digitally using word processors or text editors.
 
-[﻿](§15.18)Mark orthographic notation ( ﻿the way the words are actually spelled in a given language﻿ ) using guillemets « ﻿text﻿ » or angular brackets ⟨ ﻿text﻿ ⟩. This is the same practice as most IPA transcriptionists. Mark phonemic writing using the “ ﻿square bracket with quill﻿ ” ⁅ ﻿text﻿ ⁆ ( ﻿U+2045, U+2046﻿ ). This is a special circumstance where we are making a distinction between phonetic notation and phonemic notation. You can kind of think of phonetic notation as a more precise form of phonemic notation. That is, phonetic notation would always have either the same precision or be more precise than phonemic notation. Mark phonetic notation using curly brackets { ﻿text﻿ }. Mark precise phonetic notation using double curly brackets {{ ﻿text﻿ }}. The IPA doesn't have precise phonetic notation, but they also seem to make a distinction between phonemic notation using slashes /text/, and phonetic notation using square brackets [ ﻿text﻿ ]. I deliberately avoided using the slashes and the square brackets. That way, in a piece of text, let's say you could have IPA notation as well as TPA notation in there without confusion. But, otherwise, the same markings in the IPA can also be used, or it is at the discretion of the writer.
+[﻿](§15.18)Mark orthographic notation (the way the words are actually spelled in a given language) using guillemets « ﻿text﻿ » or angular brackets ⟨ ﻿text﻿ ⟩. This is the same practice as most IPA transcriptionists. Mark phonemic writing using the “ ﻿square bracket with quill﻿ ” ⁅ ﻿text﻿ ⁆ ( ﻿U+2045, U+2046﻿ ). This is a special circumstance where we are making a distinction between phonetic notation and phonemic notation. You can kind of think of phonetic notation as a more precise form of phonemic notation. That is, phonetic notation would always have either the same precision or be more precise than phonemic notation. Mark phonetic notation using curly brackets { ﻿text﻿ }. Mark precise phonetic notation using double curly brackets {{ ﻿text﻿ }}. The IPA doesn't have precise phonetic notation, but they also seem to make a distinction between phonemic notation using slashes /text/, and phonetic notation using square brackets [ ﻿text﻿ ]. I deliberately avoided using the slashes and the square brackets. That way, in a piece of text, let's say you could have IPA notation as well as TPA notation in there without confusion. But, otherwise, the same markings in the IPA can also be used, or it is at the discretion of the writer.
 
 [﻿](§15.19)For example: ⟨ ﻿congratulations﻿ ⟩ — `{ ﻿koŋgɻæ̱ʓ͡yule̱yşəns﻿ }`
 
 [﻿](§15.20)Use at least one and a half points of line spacing or two points of line spacing to accommodate the below‑combining and the above‑combining diacritics of the TPA. These diacritics can take up vertical space.
 
-[﻿](§15.21)Mark long vowels using the ( ﻿ː﻿ ), “ ﻿modifier letter triangular colon ( ﻿U+02D0﻿ )﻿ ”.  
+[﻿](§15.21)Mark long vowels using the ( ﻿ː﻿ ), “ ﻿modifier letter triangular colon (U+02D0)﻿ ”.  
 Example: ⟨ ﻿food﻿ ⟩ — { ﻿fʊ̱ːd﻿ }
 
-[﻿](§15.22)Mark extra long length using two triangular colons ( ﻿◌ːː﻿ ). Some languages may make this distinction.
+[﻿](§15.22)Mark extra long length using two triangular colons (◌ːː). Some languages may make this distinction.
 
 ##### [﻿](§15.23)*( ﻿1﻿ ) Writing long consonants ( ﻿gemination﻿ ) in the TPA:* { ﻿tː﻿ }, { ﻿sː﻿ }, { ﻿fː﻿ }, { ﻿t̄﻿ }, { ﻿s̄﻿ }, { ﻿f̄﻿ }, { ﻿tt﻿ }, { ﻿ss﻿ }, { ﻿ff﻿ }
 
-[﻿](§15.24)Use two of the consonant letters to mark long consonants ( ﻿gemination﻿ ).  
+[﻿](§15.24)Use two of the consonant letters to mark long consonants (gemination).  
 Example Word: ⟨ ﻿unnecessary﻿ ⟩ — `{ ﻿anne̱səsæɻɪ﻿ }`  
 The letter ‘ ﻿n﻿ ’ here is doubled to show the long consonant, also known in linguistics as gemination. The ‘ ﻿s﻿ ’ is not, because it is pronounced short. The IPA on the other hand, also uses the vowel‑length triangular colon to mark gemination [ ﻿anːe̱səsæɻɪ﻿ ]. But I am opting for double letters as I believe it is better aesthetically.
 
 [﻿](§15.25)Example long affricate, Hindi language:  
-⟨ ﻿अच्छा﻿ ⟩ — { ﻿aɕɕa﻿ } ( ﻿TPA﻿ ) | ⟨ ﻿अच्छा﻿ ⟩ — [ ﻿at͡ʃːa﻿ ] ( ﻿IPA﻿ )  
+⟨ ﻿अच्छा﻿ ⟩ — { ﻿aɕɕa﻿ } (TPA) | ⟨ ﻿अच्छा﻿ ⟩ — [ ﻿at͡ʃːa﻿ ] (IPA)  
 Example long plosive, Turkish language:  
-⟨ ﻿tuttuğunu﻿ ⟩ — { ﻿tuttuɰunu̱﻿ } ( ﻿TPA﻿ ) | ⟨ ﻿tuttuğunu﻿ ⟩ — [ ﻿tutːuɰuˈnu﻿ ] ( ﻿IPA﻿ )  
+⟨ ﻿tuttuğunu﻿ ⟩ — { ﻿tuttuɰunu̱﻿ } (TPA) | ⟨ ﻿tuttuğunu﻿ ⟩ — [ ﻿tutːuɰuˈnu﻿ ] (IPA)  
 Example long plosive, Turkish language:  
 ⟨ ﻿tuttuğunu﻿ ⟩ — {{ ﻿t̊ut̊t̊uɰ̊un̊u̱﻿ }}  
-( ﻿TPA Precise, showing labial rounding﻿  on consonants)
+(TPA Precise, showing labial rounding on consonants)
 
 [﻿](§15.26)The little ring diacritic on top of the letters is the TPA diacritic, which shows labial rounding as a secondary articulation. This is because, in precise phonetic transcriptions, we try to account for all phonetic phenomena that we think are there, using the full repertoire of the TPA. Also, by marking the stress using a combining diacritic instead of a separate mark ( ﻿see the above example, the line under the vowels﻿ ), we are saving a single letter length as well as adding to legibility.
 
@@ -888,9 +888,9 @@ Example long plosive, Turkish language:
 
 ##### [﻿](§15.30)*( ﻿2﻿ ) Writing long vowels in the TPA:* { ﻿◌ː﻿ }, { ﻿◌ːː﻿ }, { ﻿◌̄﻿ }, { ﻿◌͞◌﻿ }
 
-[﻿](§15.31)Example long vowel, English language: ⟨ ﻿feet﻿ ⟩ — `{ ﻿fᵻ̄t﻿ }` ( ﻿TPA﻿ ) | ⟨ ﻿feet﻿ ⟩ — `/fiːt/` ( ﻿IPA﻿ )  
-Example vowel hiatus, Turkish language: ⟨ ﻿saat﻿ ⟩ — `{ ﻿saa̱t﻿ }` ( ﻿TPA﻿ ) | ⟨ ﻿saat﻿ ⟩ — `[ ﻿saˈat﻿ ]` ( ﻿IPA﻿ )  
-Example vowel hiatus, Turkish language: ⟨ ﻿şair﻿ ⟩ — `{ ﻿şaːɪ̱ɹ﻿ }` ( ﻿TPA﻿ ) | ⟨ ﻿şair﻿ ⟩ — `[ʃɑːir]` ( ﻿IPA﻿ )
+[﻿](§15.31)Example long vowel, English language: ⟨ ﻿feet﻿ ⟩ — `{ ﻿fᵻ̄t﻿ }` (TPA) | ⟨ ﻿feet﻿ ⟩ — `/fiːt/` (IPA)  
+Example vowel hiatus, Turkish language: ⟨ ﻿saat﻿ ⟩ — `{ ﻿saa̱t﻿ }` (TPA) | ⟨ ﻿saat﻿ ⟩ — `[ ﻿saˈat﻿ ]` (IPA)  
+Example vowel hiatus, Turkish language: ⟨ ﻿şair﻿ ⟩ — `{ ﻿şaːɪ̱ɹ﻿ }` (TPA) | ⟨ ﻿şair﻿ ⟩ — `[ʃɑːir]` (IPA)
 
 [﻿](§15.32)The important thing to understand is that the hiatus should always be written as two separate letters, while long vowels should be written as one letter followed by the duration mark. This is because we have two separate vowels here instead of one long vowel, and the IPA also correctly accounts for this, as seen above.
 
@@ -909,7 +909,7 @@ IPA has markers like extra‑short and some other ones, but I think they are jus
 ##### [﻿](§15.37)*( ﻿3﻿ ) Writing hiatus ( ﻿vowel breaks﻿ ):* { ﻿sˌs﻿ }
 
 [﻿](§15.38)Just place ( ﻿ˌ﻿ ) between the two vowels, such as `{ ﻿āˌɪ̱t﻿ }`.  
-◌ˌ◌◌ “ ﻿modifier letter low vertical line ( ﻿U+02CC﻿ )﻿ ”
+◌ˌ◌◌ “ ﻿modifier letter low vertical line (U+02CC)﻿ ”
 
 [﻿](§15.39)Let's look at this Turkish language word example.  
 https://en.wiktionary.org/wiki/%C5%9Fair
@@ -918,7 +918,7 @@ https://en.wiktionary.org/wiki/%C5%9Fair
 > IPA(key): [ʃɑːir]
 > Hyphenation: şa·ir
 
-[﻿](§15.41)This information here is correct. The problem here with this phenomenon is that, if we do not place this dot between the two letters, we would assume that we have a diphthong here. That is, we do not have two short vowels, but instead, one gliding vowel. However, if we are dealing with the same vowels, such as in this example ( ﻿aa﻿ ) or ( ﻿ii﻿ ), then we do not need to place a vertical line between them, because in this case, we already know that they are separate vowels and that they are not diphthongs. If they were long vowels, they would have the long vowel marker { ﻿◌ː﻿ } and if they were diphthongs, they would have two different vowel letters. A better distinction can be made by using a tie bar on top of diphthongs.
+[﻿](§15.41)This information here is correct. The problem here with this phenomenon is that, if we do not place this dot between the two letters, we would assume that we have a diphthong here. That is, we do not have two short vowels, but instead, one gliding vowel. However, if we are dealing with the same vowels, such as in this example (aa) or (ii), then we do not need to place a vertical line between them, because in this case, we already know that they are separate vowels and that they are not diphthongs. If they were long vowels, they would have the long vowel marker { ﻿◌ː﻿ } and if they were diphthongs, they would have two different vowel letters. A better distinction can be made by using a tie bar on top of diphthongs.
 
 ##### [﻿](§15.42)*( ﻿4﻿ ) Writing morphological boundaries:* { ﻿◌·◌﻿ }
 
@@ -959,7 +959,7 @@ This is because there isn't a triple combining tie bar in Unicode.
 
 [﻿](§15.57)Why is there an affrication diacritic in the TPA { ﻿◌̾﻿ }?
 
-[﻿](§15.58)Some phones can be affricated on their own. I think that terminology is also unique to this document. This is separate from the affricate consonants. The best example of affrication is the affricated bilabial click ( ﻿the kissing sound but with affrication﻿ ). This is done by first making a stop with the lips, then making the lips rounded, and then sucking the air in through a small opening. The result is an “ ﻿affricated bilabial click﻿ ”, represented exactly by this letter { ﻿ʘ̊̾﻿ } in the TPA.
+[﻿](§15.58)Some phones can be affricated on their own. I think that terminology is also unique to this document. This is separate from the affricate consonants. The best example of affrication is the affricated bilabial click (the kissing sound but with affrication). This is done by first making a stop with the lips, then making the lips rounded, and then sucking the air in through a small opening. The result is an “ ﻿affricated bilabial click﻿ ”, represented exactly by this letter { ﻿ʘ̊̾﻿ } in the TPA.
 
 [﻿](§15.59)This results in a high‑pitched voiceless sound, and affrication is the secondary articulation that is taking place here. The TPA tries to accommodate all such phonetic phenomena, this was noted and implemented. For example, { ﻿ʘ, ʘ̊, ʘ̊̾﻿ } are all valid pronunciations.
 
@@ -986,7 +986,7 @@ I picked this combining diacritic because it resembles the tongue going upwards 
 [﻿](§15.68)◌̑ combining inverted breve (U+0311)  
 ◌ʸ  modifier letter small y (U+02B8)
 
-##### [﻿](§15.69)*( ﻿11﻿ ) Marking velarisation ( ﻿lingual retraction﻿ ):* { ﻿◌̆﻿ }, { ﻿◌͜ɰ﻿ }, { ﻿◌ᶭ﻿ }
+##### [﻿](§15.69)*( ﻿11﻿ ) Marking velarisation (lingual retraction):* { ﻿◌̆﻿ }, { ﻿◌͜ɰ﻿ }, { ﻿◌ᶭ﻿ }
 
 [﻿](§15.70)Velarisation is the phenomenon of lingual retraction during the articulation of sounds. The way the ‘ ﻿L﻿ ’s are pronounced in English is a good example of velarisation. It is also known as the “ ﻿dark L﻿ ”. Transcription { ﻿l͜ɰ﻿ }. We can also use the combining diacritic { ﻿◌̆﻿ }. For example, the English word “ ﻿all﻿ ” — { ﻿ɔl̆﻿ }. I picked this combining diacritic because it resembles the tongue being retracted.
 
@@ -1054,7 +1054,7 @@ It's not very useful here with English because we are marking vowel reduction tw
 
 [﻿](§15.98)◌⃨ combining triple underdot (U+20E8)
 
-##### [﻿](§15.99)*( ﻿21﻿ ) Marking glottalisation ( ﻿glottal closure﻿ ):* { ﻿◌̉﻿ }, { ﻿◌͡ʔ﻿ }, { ﻿◌ˀ﻿ } marking “ ﻿no audible release﻿ ”: { ﻿◌̚﻿ } { ﻿◌¬﻿ }
+##### [﻿](§15.99)*( ﻿21﻿ ) Marking glottalisation (glottal closure):* { ﻿◌̉﻿ }, { ﻿◌͡ʔ﻿ }, { ﻿◌ˀ﻿ } marking “ ﻿no audible release﻿ ”: { ﻿◌̚﻿ } { ﻿◌¬﻿ }
 
 [﻿](§15.100)I decided to cover these two concepts together as they are relevant to each other. This secondary articulation shows that a glottal closure is taking place right after the phone is pronounced. It is different from the IPA's “ ﻿unreleased﻿ ” plosives, and it should not be confused with it. Its exact usage is a little complex.
 
@@ -1062,7 +1062,7 @@ It's not very useful here with English because we are marking vowel reduction tw
 
 > [﻿](§15.102)"In most dialects of English, the first stop of a cluster has no audible release, as in apt [ˈæp̚t], doctor [ˈdɒk̚tʰɚ], or logged on [ˌlɒɡ̚dˈɒn]. Although such sounds are frequently described as "unreleased", the reality is that since the two consonants overlap, the release of the former takes place during the hold of the latter, masking the former's release and making it inaudible."
 
-[﻿](§15.103)Here, we see a correct explanation for the “ ﻿no audible release﻿ ”. I take this explanation here directly from the IPA and the diacritic as well ( ﻿◌̚﻿ ). The diacritic looks quite distinct, and it does not look like the other diacritics of the TPA. It can be used for the same purposes. However, I am doubtful as to its use for plosives that are not in consonant clusters, as in the examples above. If we did not have such plosive clusters, and if we were to have this at the end of words, which is often discussed in East Asian phonology, then it would be a case of glottal closure (glottal stop). For example, let's look at the Korean word “ ﻿일곱﻿ ” which means the number “ ﻿seven﻿ ”.  
+[﻿](§15.103)Here, we see a correct explanation for the “ ﻿no audible release﻿ ”. I take this explanation here directly from the IPA and the diacritic as well (◌̚). The diacritic looks quite distinct, and it does not look like the other diacritics of the TPA. It can be used for the same purposes. However, I am doubtful as to its use for plosives that are not in consonant clusters, as in the examples above. If we did not have such plosive clusters, and if we were to have this at the end of words, which is often discussed in East Asian phonology, then it would be a case of glottal closure (glottal stop). For example, let's look at the Korean word “ ﻿일곱﻿ ” which means the number “ ﻿seven﻿ ”.  
 https://en.wiktionary.org/wiki/%EC%9D%BC%EA%B3%B1
 
 [﻿](§15.104)Here on this Wiktionary page, we can see that its pronunciation is being given with the final plosive with the inaudible release combining diacritic /iɭɡop̚/. However, instead, what we may be seeing here is a glottal closure accompanying the [ ﻿p﻿ ]. The difference between “ ﻿glottalisation﻿ ” or “ ﻿glottal closure﻿ ” as a secondary articulation compared with the no audible release is that, in the no audible release, the glottis is not closed, while here the glottis is closed briefly, then opened again.
@@ -1072,7 +1072,7 @@ https://en.wiktionary.org/wiki/%EC%9D%BC%EA%B3%B1
 ◌̚ combining left angle above (U+031A)  
 ◌¬ not sign (U+00AC) (after the letter)
 
-##### [﻿](§15.106)*( ﻿22﻿ ) Marking rhotacisation ( ﻿lingual curl﻿ ):* { ﻿◌᷾﻿ }, { ﻿◌͡ɻ﻿ }, { ﻿◌ʵ﻿ }
+##### [﻿](§15.106)*( ﻿22﻿ ) Marking rhotacisation (lingual curl):* { ﻿◌᷾﻿ }, { ﻿◌͡ɻ﻿ }, { ﻿◌ʵ﻿ }
 
 [﻿](§15.107)Same combining diacritic as the velarisation but facing left instead.  
 This is to show the shape of the tongue curling up towards the palate { ﻿◌᷾﻿ }.
@@ -1080,7 +1080,7 @@ This is to show the shape of the tongue curling up towards the palate { ﻿◌
 [﻿](§15.108)◌᷾ combining left arrowhead above (U+1DFE)  
 ◌ʵ﻿  modifier letter small turned r with hook (U+02B5)
 
-##### [﻿](§15.109)*( ﻿23﻿ ) Marking pharyngealisation ( ﻿pharyngeal restriction﻿ ):* { ﻿ʕ͡◌﻿ }, { ﻿ˤ◌﻿ }
+##### [﻿](§15.109)*( ﻿23﻿ ) Marking pharyngealisation (pharyngeal restriction):* { ﻿ʕ͡◌﻿ }, { ﻿ˤ◌﻿ }
 
 [﻿](§15.110)This is particularly useful in Arabic, and it is marked with the character ‘ ﻿ʕ, ˤ﻿ ’.  
 It implies that there is a pharyngeal restriction accompanying the articulation.
@@ -1088,13 +1088,13 @@ It implies that there is a pharyngeal restriction accompanying the articulation.
 [﻿](§15.111)ʕ͡◌ latin letter pharyngeal voiced fricative (U+0295) (before the letter)  
 ˁ◌ modifier letter reversed glottal stop (U+02C1) (before the letter)
 
-##### [﻿](§15.112)*( ﻿24﻿ ) Marking ejective pronunciations ( ﻿glottalic egressives﻿ ):* { ﻿◌↑﻿ }, { ﻿◌͜↑﻿ }
+##### [﻿](§15.112)*( ﻿24﻿ ) Marking ejective pronunciations (glottalic egressives):* { ﻿◌↑﻿ }, { ﻿◌͜↑﻿ }
 
 [﻿](§15.113)They are marked with the upward arrow written to the right of the letter. They can also be optionally tied with a tie bar. We can use the Unicode upward arrow. IPA writes them as [ ﻿pʼ, tʼ, kʼ, sʼ, fʼ﻿ ]. They do not have specific letters because there are too many of them, so we have to use the regular pulmonic letter plus the upward arrow. I believe it is better than the apostrophe used by the IPA. These markers must never be used with any voiced letter, as ejectives cannot be voiced. Also, they must never be used with any non‑strictives such as approximants and vowels. They can, however, be used with bilateral fricatives, fricatives, affricates, and plosives. For example, these are all invalid { ﻿w͜￪﻿ }, { ﻿u͜￪﻿ }, { ﻿a͜￪﻿ }.
 
 [﻿](§15.114)◌↑ upwards arrow (U+2191)
 
-##### [﻿](§15.115)*( ﻿25﻿ ) Marking implosive pronunciation ( ﻿glottalic ingressives﻿ ):* { ﻿◌↓﻿ }, { ﻿◌͜↓﻿ }
+##### [﻿](§15.115)*( ﻿25﻿ ) Marking implosive pronunciation (glottalic ingressives):* { ﻿◌↓﻿ }, { ﻿◌͜↓﻿ }
 
 [﻿](§15.116)We mark implosives with the use of the downward arrow. This practice is taken directly from the IPA into the TPA. I also got the idea to mark ejectives using an upward arrow. However, in the IPA, they had specific letters for voiceless and voiced implosives such as [ ﻿ƥ, ɓ, ƭ, ɗ, ̢ƭ, ᶑ, ƙ, ɠ, ʠ, ʛ﻿ ]. Those letters are intentionally not being used in the TPA as reserves. They are the same pulmonic letters, but with a rightward hook that is attached on top. They are all precomposed letters except for [ ﻿ƭ﻿ ]. The correct way to write implosives in the TPA is with the plosive letter plus the downward arrow to the right of the letter.
 
@@ -1135,7 +1135,7 @@ It implies that there is a pharyngeal restriction accompanying the articulation.
 “ ﻿ありがと﻿ ” — `{ ﻿aɾɪgaꜛᴛo﻿ }`  
 “ ﻿ありがと﻿ ” — `{ ﻿aɾɪgaꜜᴛo﻿ }`
 
-[﻿](§15.133)For contour tones ( ﻿gliding tones﻿ ), we can use the combining diacritics that go over the vowel letters like in Pinyin.  
+[﻿](§15.133)For contour tones (gliding tones), we can use the combining diacritics that go over the vowel letters like in Pinyin.  
 { ﻿◌᷇, ◌́, ◌᷆, ◌᷄, ◌̀, ◌᷅﻿ }.
 
 [﻿](§15.134)We can use the numerical markers as superscript numerals.  
@@ -1274,22 +1274,22 @@ It is supposed to be the combining left arrow above (U+20D6), but again, the fon
 
 ##### [﻿](§15.186)*( ﻿44﻿ ) Marking grammatical gender:* ⁽ᵐ⁾ ⁽ᶠ⁾ ⁽ⁿ⁾
 
-[﻿](§15.187)masculine ( ﻿abbreviation m.﻿ ) { ﻿◌◌◌⁽ᵐ⁾﻿ }  
-feminine ( ﻿abbreviation f.﻿ ) { ﻿◌◌◌⁽ᶠ⁾﻿ }  
-neuter ( ﻿abbreviation n.﻿ ) { ﻿◌◌◌⁽ⁿ⁾﻿ }
+[﻿](§15.187)masculine (abbreviation m.) { ﻿◌◌◌⁽ᵐ⁾﻿ }  
+feminine (abbreviation f.) { ﻿◌◌◌⁽ᶠ⁾﻿ }  
+neuter (abbreviation n.) { ﻿◌◌◌⁽ⁿ⁾﻿ }
 
 [﻿](§15.188)These are intended to be used with words that can change for grammatical gender. It is an easy way of marking grammatical gender. Some languages make a two-way distinction, for example, French and Spanish, while others make a three-way distinction, including neuter, such as German and Greek. Some languages do not make any gender inflections, such as Turkish, although they do still have grammatical gender to a limited extent.
 
 ##### [﻿](§15.189)*( ﻿45﻿ ) Marking grammatical number:* ⁽ˢᵍ⁾ ⁽ᵖˡ⁾ ⁽ᵈˡ⁾ ⁽ᵗˡ⁾
 
-[﻿](§15.190)singular ( ﻿abbreviation sg.﻿ ) { ﻿◌◌◌⁽ˢᵍ⁾﻿ }  
-plural ( ﻿abbreviation pl.﻿ ) { ﻿◌◌◌⁽ᵖˡ⁾﻿ }  
-dual ( ﻿abbreviation dl.﻿ ) { ﻿◌◌◌⁽ᵈˡ⁾﻿ }  
-trial ( ﻿abbreviation tl.﻿ ) { ﻿◌◌◌⁽ᵗˡ⁾﻿ }
+[﻿](§15.190)singular (abbreviation sg.) { ﻿◌◌◌⁽ˢᵍ⁾﻿ }  
+plural (abbreviation pl.) { ﻿◌◌◌⁽ᵖˡ⁾﻿ }  
+dual (abbreviation dl.) { ﻿◌◌◌⁽ᵈˡ⁾﻿ }  
+trial (abbreviation tl.) { ﻿◌◌◌⁽ᵗˡ⁾﻿ }
 
 ##### [﻿](§15.191)*( ﻿46﻿ ) Writing the tittle:* { ﻿◌̇﻿ }
 
-[﻿](§15.192)The tittle is the name of the small dot that goes on top of letters such as the ‘ ﻿i﻿ ’ or the ‘ ﻿j﻿ ’. In the TPA, we don't write the tittle. We can use the undotted forms of these letters { ﻿ı, ȷ﻿ }, and that does not pose a problem. However, if we want to write the tittle, we can use the  combining dot above on top of the characters and it will not interfere.
+[﻿](§15.192)The tittle is the name of the small dot that goes on top of letters such as the ‘ ﻿i﻿ ’ or the ‘ ﻿j﻿ ’. In the TPA, we don't write the tittle. We can use the undotted forms of these letters { ﻿ı, ȷ﻿ }, and that does not pose a problem. However, if we want to write the tittle, we can use the " ﻿combining dot above﻿ " on top of the characters and it will not interfere.
 
 [﻿](§15.193)◌̇ combining dot above (U+0307)
 
