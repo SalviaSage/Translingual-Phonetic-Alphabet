@@ -1096,7 +1096,7 @@ It implies that there is a pharyngeal restriction accompanying the articulation.
 
 ##### [﻿](§15.115)*( ﻿25﻿ ) Marking implosive pronunciation (glottalic ingressives):* { ﻿◌↓﻿ }, { ﻿◌͜↓﻿ }
 
-[﻿](§15.116)We mark implosives with the use of the downward arrow. This practice is taken directly from the IPA into the TPA. I also got the idea to mark ejectives using an upward arrow. However, in the IPA, they had specific letters for voiceless and voiced implosives such as [ ﻿ƥ, ɓ, ƭ, ɗ, ̢ƭ, ᶑ, ƙ, ɠ, ʠ, ʛ﻿ ]. Those letters are intentionally not being used in the TPA as reserves. They are the same pulmonic letters, but with a rightward hook that is attached on top. They are all precomposed letters except for [ ﻿ƭ﻿ ]. The correct way to write implosives in the TPA is with the plosive letter plus the downward arrow to the right of the letter.
+[﻿](§15.116)We mark implosives with the use of the downward arrow. This practice is taken directly from the IPA into the TPA. I also got the idea to mark ejectives using an upward arrow. However, in the IPA, they had specific letters for voiceless and voiced implosives such as [ ﻿ƥ, ɓ, ƭ, ɗ, 𝼉, ᶑ, ƙ, ɠ, ʠ, ʛ﻿ ]. Those letters are intentionally not being used in the TPA as reserves. They are the same pulmonic letters, but with a rightward hook that is attached on top. The correct way to write implosives in the TPA is with the plosive letter plus the downward arrow to the right of the letter.
 
 [﻿](§15.117)◌↓ downwards arrow (U+2193)
 
